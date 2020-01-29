@@ -1,0 +1,4375 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-09 13:18-0500\n"
+"PO-Revision-Date: 2015-06-09 15:12-0551\n"
+"Last-Translator: Michael Menarguez <mamenarguez@ou.edu>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Translated-Using: django-rosetta 0.7.6\n"
+
+#: aboutus/models.py:9
+msgid "One column image"
+msgstr "Imagen Una columna"
+
+#: aboutus/models.py:10
+msgid "Two columns image"
+msgstr "Imagen Dos columnas"
+
+#: aboutus/templates/aboutus/education/courses.html:6
+#: aboutus/templates/aboutus/leftmenu.html:42
+msgid "Courses"
+msgstr "Cursos"
+
+#: aboutus/templates/aboutus/education/courses.html:9
+msgid "Environmental Remote Sensing"
+msgstr "Teledetección Ambiental"
+
+#: aboutus/templates/aboutus/education/courses.html:10
+#: aboutus/templates/aboutus/education/courses.html:14
+msgid "Fall Semester"
+msgstr "Semestre De Otoño"
+
+#: aboutus/templates/aboutus/education/courses.html:11
+msgid ""
+"This 3-credit course aims to help students to develop comprehensive "
+"knowledge and advanced skills of remote sensing, and to apply it for "
+"studying the composition, structure, and function of plants, ecosystems, "
+"landscapes and the biosphere. The course will teach (1) laboratory- and "
+"field- based hyperspectral data acquisition and analysis, (2) field survey "
+"methods, (3) multi-spectral remote sensing of land use and land cover, "
+"vegetation, and water quality, (4) thermal remote sensing, and (5) microwave"
+" remote sensing. The course is composed of lecture, computer laboratory, "
+"field data collection, student&rsquo;s project, presentation and reports as "
+"well as literature reviews. Students will learn image processing software "
+"(ENVI) and algorithms. This course is designed for advanced undergraduate "
+"and graduate students who are interested in remote sensing and its "
+"applications, e.g., ecology, natural resources, agriculture, forestry, "
+"wildlife, water, climate, and urban. Perspective students could come from "
+"various departments, including biology, geography, geology, hydrology, "
+"atmospheric science, computer science, mathematics and statistics."
+msgstr ""
+"Este curso de 3 créditos tiene como objetivo ayudar a los estudiantes a "
+"desarrollar el conocimiento integral y habilidades avanzadas de "
+"teledetección, y aplicarla para el estudio de la composición, estructura y "
+"función de las plantas, los ecosistemas, los paisajes y la biosfera. El "
+"curso enseñará (1) en laboratorio y de campo adquisición basada "
+"hiperespectral y análisis de datos, (2) los métodos de encuesta de campo, "
+"(3) la teledetección multiespectral de uso y cobertura del suelo, la "
+"vegetación y la calidad del agua, (4) teledetección térmica, y (5) la "
+"teledetección de microondas. El curso se compone de conferencias, sala de "
+"ordenadores, la recolección de datos de campo, estudiante & amp; rsquo; s "
+"del proyecto, presentación e informes, así como revisiones de la literatura."
+" Los estudiantes aprenderán el software de procesamiento de imágenes (ENVI) "
+"y algoritmos. Este curso está diseñado para estudiantes de pregrado y "
+"postgrado avanzados que estén interesados ​​en la teleobservación y sus "
+"aplicaciones, por ejemplo, la ecología, los recursos naturales, la "
+"agricultura, la silvicultura, la fauna, el agua, el clima y urbano. "
+"Perspectiva estudiantes podrían provenir de diferentes departamentos, "
+"incluyendo la biología, geografía, geología, hidrología, ciencias "
+"atmosféricas, ciencias de la computación, matemáticas y estadística."
+
+#: aboutus/templates/aboutus/education/courses.html:13
+msgid "Computational Remote Sensing"
+msgstr "Teledetección Computacional "
+
+#: aboutus/templates/aboutus/education/courses.html:15
+msgid ""
+"This 3-credit course focuses on data analysis and modeling with large "
+"volumes of satellite images. It is organized in four modules: (1) computer "
+"programming in computer servers with Linux/Unix environment, (2) in-depth "
+"literature review of remote sensing in the areas of land use and land cover "
+"change, biophysical and biochemical parameters of vegetation and water, (3) "
+"individual or group (2-3 students per group) projects that analyze large "
+"amounts of satellite images, and (4) student presentations and manuscript "
+"writing for peer-reviewed SCI journals. Students will learn how to use the "
+"Interactive Data Language (IDL), ENVI image processing software, Python, R, "
+"and GRASS to analyze large volumes of remote sensing data from optical "
+"sensors (Landsat, MODIS) and synthetic aperture radar (PALSAR). Student "
+"projects may cover diverse topics, including urban, water, vegetation, "
+"soils, minerals, and disturbance (fire, drought, flood, insect infestation)."
+" This course is designed for graduate students and advanced undergraduate "
+"students who are interested in satellite remote sensing. Perspective "
+"students could come from various departments, including biology, geography, "
+"hydrology, atmospheric science, computer science, mathematics and "
+"statistics. Pre-requisites are a course in remote sensing (PBIO 4733/5733 "
+"and GIS 4733/5733 Environmental Remote Sensing, or equivalent), statistical "
+"data analysis, computer programming, or permission of instructor and "
+"advisor."
+msgstr ""
+"Este curso de 3 créditos se centra en el análisis de datos y el modelado con"
+" grandes volúmenes de imágenes de satélite. Está organizado en cuatro "
+"módulos: (1) la programación de computadoras en servidores de un ordenador "
+"con entorno Linux / Unix, (2) revisión de la literatura a fondo de la "
+"teledetección en las áreas de uso de la tierra y el cambio de cobertura "
+"terrestre, parámetros biofísicos y bioquímicos de la vegetación y agua, (3) "
+"individual o grupal (2-3 estudiantes por grupo) proyectos que analizan "
+"grandes cantidades de imágenes de satélite, y (4) presentaciones de los "
+"estudiantes y la escritura manuscrita de revistas SCI revisadas por pares. "
+"Los estudiantes aprenderán cómo utilizar el lenguaje Interactive Data (IDL),"
+" el software de procesamiento de imágenes ENVI, Python, R, y la hierba para "
+"analizar grandes volúmenes de datos de teledetección de los sensores ópticos"
+" (Landsat, MODIS) y radar de apertura sintética (PALSAR). Proyectos "
+"estudiantiles pueden cubrir diversos temas, entre ellos urbano, agua, "
+"vegetación, suelos, minerales, y la perturbación (incendios, sequías, "
+"inundaciones, plagas de insectos). Este curso está diseñado para estudiantes"
+" de posgrado y estudiantes de pregrado avanzados que estén interesados ​​en "
+"la teledetección por satélite. Perspectiva estudiantes podrían provenir de "
+"diferentes departamentos, incluyendo la biología, geografía, hidrología, "
+"ciencias de la atmósfera, la informática, las matemáticas y la estadística. "
+"Pre-requisitos son un curso de teledetección (PBIO 4733/5733 y 4733/5733 SIG"
+" Teledetección Ambiental, o equivalente), el análisis de datos estadísticos,"
+" la programación de computadoras, o permiso del instructor y asesor."
+
+#: aboutus/templates/aboutus/education/overview.html:7
+#: aboutus/templates/aboutus/leftmenu.html:35
+msgid "Education"
+msgstr "Educación"
+
+#: aboutus/templates/aboutus/education/overview.html:9
+msgid ""
+"The EOMF faculty, post-doctoral researchers, and Ph.D. students have been "
+"involved in formal and informal education of geospatial technologies, "
+"science and applications. For example, we teach &ldquo;Environmental Remote "
+"Sensing&rdquo; course in fall semester, which is a cross-listing course "
+"between the Department of Microbiology and Plant Biology and the Department "
+"of Geography and Environmental Sustainability (PBIO-4733/5733 and "
+"GIS-4733/5733). In 2012, we also launched and led an effort to host the "
+"first campus-wide GIS Day 2012 event at the OU Norman&nbsp;campus, which "
+"attracted many high school students from several local high schools and "
+"undergraduate students from the OU."
+msgstr ""
+"Los profesores del grupo EOMF, investigadores post-doctorales, y Ph.D. los "
+"estudiantes han participado en la educación formal e informal de las "
+"tecnologías geoespaciales, la ciencia y las aplicaciones. Por ejemplo, les "
+"enseñamos a &ldquo; Teledetección Ambiental &rdquo; curso del semestre de "
+"otoño entre el Departamento de Microbiología y Biología Vegetal y el "
+"Departamento de Geografía y Sostenibilidad Ambiental (PBIO-4733/5733 y "
+"SIG-4733/5733). En 2012, también lanzamos en un esfuerzo de organización el "
+"primer evento del GISDay en todo el campus de 2012 en la Universidad de "
+"Oklahoma en el campus de Norman que atrajo a muchos estudiantes de "
+"secundaria de varias escuelas secundarias locales y estudiantes de pregrado "
+"universitarios."
+
+#: aboutus/templates/aboutus/education/student_awards.html:6
+#: aboutus/templates/aboutus/leftmenu.html:43
+msgid "Student Awards"
+msgstr "Premios Estudiantiles"
+
+#: aboutus/templates/aboutus/education/student_awards.html:10
+msgid ""
+"Computer Science Graduate Alumni scholarship (2014, University of Oklahoma)"
+msgstr ""
+"Ciencias de la Computación de Posgrado de Antiguos Alumnos de becas (2014, "
+"Universidad de Oklahoma)"
+
+#: aboutus/templates/aboutus/facilities/clab.html:3
+msgid "EOMF Facilities: Computational Labory"
+msgstr "Instalaciones EOMF: Laboratorio informático"
+
+#: aboutus/templates/aboutus/facilities/clab.html:9
+msgid "The Computational Laboratory"
+msgstr "El Laboratorio Informático"
+
+#: aboutus/templates/aboutus/facilities/clab.html:12
+msgid "1. Computer servers"
+msgstr "1. Los servidores informáticos"
+
+#: aboutus/templates/aboutus/facilities/clab.html:13
+msgid ""
+"The EOMF has 14 computer servers: six for storage servers, two for web "
+"servers (internal and external web service), one for ArcGIS servers, and six"
+" for computational servers. Two  of the storage servers are Dell Poweredge "
+"2950s, each with two quad core 2.33GHz Intel E5410 processors, 16 gigabytes "
+"of memory, and 3 x 146 gigabyte Serial Attached SCSI (SAS) local hard drives"
+" in a RAID5 configuration. They are both double attached to the Storage Area"
+" Network (SAN) via Qlogic 2462 dual channel Host Bus Adapters (HBAs). Four "
+"of the storage servers are Poweredge 720XD’s.  They have four Quad core "
+"E5-2650 CPU’s, 24TB of local storage, 128GB RAM and 10GB Ethernet adapters."
+"  They are connected to an Isilon storage system that provides an additional"
+" 293TB of storage via the 10gig Ethernet.  The eight computer servers are "
+"Dell Poweredge 1950s, each with two quad core 2.33GHz Intel E5410 "
+"processors, 16 gigabytes of memory, and 3 x 146 gigabyte SAS local hard "
+"drives in a RAID5 configuration. 10 servers mentioned above run RedHat "
+"Enterprise Linux version 5.2 as their operating system and are attached to "
+"OU's network at 1 Gigabit/second. One server runs Window system for ArcGIS."
+msgstr ""
+"El EOMF dispone de 14 servidores : seis para servidores de almacenamiento, "
+"dos para los servidores web (servicios web internos y externos), uno de los "
+"servidores de ArcGIS, y seis para los servidores de procesamiento. Dos de "
+"los servidores de almacenamiento son 2950s Dell PowerEdge, cada uno con dos "
+"procesadores de 2,33 GHz de cuatro núcleos Intel E5410, 16 gigabytes de "
+"memoria, y 3 x 146 gigabytes Serial Attached SCSI (SAS) discos duros locales"
+" en una configuración RAID 5. Están doblemente unidos a la red de "
+"almacenamiento (SAN) a través de Qlogic 2462 de doble canal de adaptadores "
+"de bus de host (HBA). Cuatro de los servidores de almacenamiento son "
+"Poweredge 720XD de. Tienen, 24 TB de almacenamiento local, 128 GB de memoria"
+" RAM y 10 GB Ethernet adaptadores cuatro Quad core E5-2650 de la CPU. Están "
+"conectados a un sistema de almacenamiento Isilon que proporciona  293TB "
+"adicionales de almacenamiento a través de la Ethernet 10gig. Los ocho "
+"servidores Dell PowerEdge 1950 rienen cada uno dos procesadores de 2,33 GHz "
+"de cuatro núcleos Intel E5410, 16 gigabytes de memoria, y 3 x 146 gigabytes "
+"de disco duro SAS unidades locales en una configuración RAID 5. 10 "
+"servidores antes mencionados plazo RedHat Enterprise Linux versión 5.2 como "
+"sistema operativo y están conectados a la red de OU a 1 Gigabit / segundo. "
+"Un servidor se ejecuta el sistema de ventana para ArcGIS."
+
+#: aboutus/templates/aboutus/facilities/clab.html:14
+msgid "2. The data center"
+msgstr "2. El centro de datos"
+
+#: aboutus/templates/aboutus/facilities/clab.html:15
+msgid ""
+"The EOMF has space in two data centers on Research campus with a SAN-"
+"attached mass storage system of <b>500 Terabytes</b> in a RAID6 (8+2) "
+"configuration from Data Direct Networks S2A9900. The S2A9900 is a dual "
+"controller specifically designed for high performance computing (HPC). The "
+"storage area network (SAN) consists of a dual 8-Gbps fibre channel (FC) "
+"fabric with 96 ports in each fabric. Each fabric is comprised of one 80-port"
+" Brocade 5300 8-Gbps FC switch and one Brocade 16-port Brocade 200E switch. "
+"This enables each host to be dual-connected to the SAN for high availability"
+" and greater performance.  In the other datacenter there is an Isilon "
+"storage system that provides an additional 293TB of storage from three "
+"Isilon NL400’s that are interconnected with infiniband networking and then "
+"the filesystem is networked to the compute servers via 10gig Ethernet and "
+"also 1gig Ethernet depending on which datacenter the server is in."
+msgstr ""
+"El EOMF dispone de espacio en dos centros de datos en el campus de "
+"Investigación con un sistema de almacenamiento masivo conectado a la SAN de "
+"<b> 500 Terabytes </ b> en un RAID6 (8 + 2) de configuración de redes de "
+"datos directos S2A9900. El S2A9900 es un controlador dual diseñada "
+"específicamente para la informática de alto rendimiento (HPC). La red de "
+"área de almacenamiento (SAN) consiste en un doble canal de fibra de 8 Gbps "
+"(FC) de tela con 96 puertos en cada tejido. Cada tejido se compone de un 80 "
+"puertos Brocade 5300 8-Gbps interruptor FC y uno de 16 puertos Brocade "
+"conmutador Brocade 200E. Esto permite que cada ejército para ser conectados "
+"a la SAN dual para alta disponibilidad y mayor rendimiento. En el otro "
+"centro de datos existe un sistema de almacenamiento Isilon que proporciona "
+"una 293TB adicional de almacenamiento de tres Isilon NL400 de que están "
+"interconectados con las redes InfiniBand y luego el sistema de archivos está"
+" conectado en red a los servidores de computación a través de 10gig Ethernet"
+" y también 1gig Ethernet dependiendo de qué centro de datos del servidor es "
+"en."
+
+#: aboutus/templates/aboutus/facilities/clab.html:17
+msgid "3. Image processing and GIS software"
+msgstr "Procesamiento y SIG de software 3. Imagen"
+
+#: aboutus/templates/aboutus/facilities/clab.html:18
+msgid ""
+"25-seat lab licenses of IDL/ENVI, 5-licenses of ERDAS Imagine, ESRI ArcGIS, "
+"statistics packages (R, Matlab), and Python"
+msgstr ""
+"25 plazas licencias laboratorio de IDL / ENVI, 5-licencias de ERDAS IMAGINE,"
+" ESRI ArcGIS, paquetes de estadística (R, Matlab), y Python"
+
+#: aboutus/templates/aboutus/facilities/clab.html:19
+msgid ""
+" \"4 The data portal (<a "
+"href=\"http://www.eomf.ou.edu/\">http://www.eomf.ou.edu</a>) and web service"
+msgstr ""
+"\"4 El portal de datos (<a href=\"http://www.eomf.ou.edu/\"> "
+"http://www.eomf.ou.edu </a>) y servicios web"
+
+#: aboutus/templates/aboutus/facilities/clab.html:20
+msgid ""
+"The data center hosts a number of global datasets of climate, satellite "
+"images, population, land cover, agriculture and forests, including the "
+"citizen science &ldquo;Global Geo-Referenced Field Photo Library (<a "
+"href=\"http://www.eomf.ou.edu/photos\">http://www.eomf.ou.edu/photos</a>). "
+"The data portal (<a "
+"href=\"http://www.eomf.ou.edu/\">http://www.eomf.ou.edu</a>) provides a "
+"number of web services to users, including automated data inventory, query, "
+"visualization and distribution to the users. The web-based applications were"
+" developed from open source software and tools, including PostgresSQL, "
+"PostGIS, MapServer, OGC standard WMS/WFS/WCS, and GDAL (Geospatial data "
+"abstraction library), and OGR simple feature library. The data portal is "
+"largely written with Python, PHP, and HTML scripting languages.>"
+msgstr ""
+"El centro de datos alberga una serie de conjuntos de datos mundiales del "
+"clima, imágenes de satélite, la población, la ocupación del suelo, la "
+"agricultura y los bosques, incluyendo la ciencia & amp ciudadana; ldquo; "
+"nuestra Libreria Golbal Georeferenciada Field Photo (<a href = \"http: // "
+"www .eomf.ou.edu / fotos \"> http://www.eomf.ou.edu/photos </a>). El portal "
+"de datos (<a href=\"http://www.eomf.ou.edu/\"> http://www.eomf.ou.edu </a>) "
+"ofrece una serie de servicios de Internet para los usuarios, incluyendo "
+"automatizado inventario de datos, consulta, visualización y distribución a "
+"los usuarios. Las aplicaciones basadas en web se desarrollaron a partir de "
+"software y herramientas de código abierto, incluyendo PostgreSQL, PostGIS, "
+"MapServer, OGC WMS estándar / CMA / WCS y GDAL (Geospatial biblioteca de "
+"abstracción de datos), y OGR biblioteca de operaciones simples. El portal de"
+" los datos se escriben en gran medida con Python, PHP, y lenguajes de script"
+" HTML.>"
+
+#: aboutus/templates/aboutus/facilities/clab.html:22
+msgid ""
+"The OU Supercomputing Center for Education and Research (OSCER) has a high-"
+"performance supercomputer with 536 compute nodes (quad core CPU), which is "
+"available to all faculty and students in OU. The OSCER also has the "
+"PetaStore facility with a capacity of multiple petabyte storage system (both"
+" tapes and disks). The PetaStore facility was established with a NSF Major "
+"Research Instrument (MRI) grant in 2010 &ldquo;(Acquisition of extensible "
+"Petascale storage for data intensive research, OCI-1039829, 10/01/2010 "
+"&ndash; 09/31/2013) and supports long-term data archive. Dr. Xiao is a Co-PI"
+" for the NSF MRI grant and has access to the PetaStore facility. The "
+"specific equipment is (a) an IBM DCS9900 disk system (rebranded DataDirect "
+"Networks S2A9900) of 1200 disk drive slots, expandable to at least 1.7 PB "
+"usable at current disk drive capacity (e.g., 2 TB SATA 7200 RPM disk drive),"
+" and (b) an IBM TS3500 tape library of 4 LTO-5 tape drives (560 MB/sec peak "
+"throughput) and 2889 tape cartridge slots (expandable to over 4 PB at "
+"LTO-5).>"
+msgstr ""
+"El Centro de Supercomputación de OU de Educación e Investigación (oscer) "
+"tiene una supercomputadora de alto rendimiento con 536 nodos de cómputo (CPU"
+" quad core), que está disponible para todos los profesores y estudiantes en "
+"la unidad organizativa. El oscer también tiene la facilidad PetaStore con "
+"una capacidad de sistema de almacenamiento petabyte múltiple (ambas cintas y"
+" discos). La instalación PetaStore fue establecida con una subvención NSF "
+"Mayor Instrumento de Investigación (MRI) en 2010 & amp; ldquo; (Adquisición "
+"de almacenamiento Petascale extensible para los datos de la investigación "
+"intensiva, OCI-1.039.829, 10/01/2010 & amp; ndash; 09/31/2013 ) y apoya el "
+"archivo de datos a largo plazo. Dr. Xiao es un Co-PI para la concesión NSF "
+"MRI y tiene acceso a la instalación PetaStore. El equipo específico es (a) "
+"un sistema IBM DCS9900 disco (renombrados DataDirect Networks S2A9900) de "
+"1200 ranuras de unidad de disco, ampliable a por lo menos 1,7 PB utilizable "
+"en la capacidad actual de unidad de disco (por ejemplo, 2 TB SATA 7200 RPM "
+"de disco duro), y ( b) una biblioteca de cintas IBM TS3500 de 4 LTO-5 "
+"unidades de cinta (560 MB / s de rendimiento de pico) y 2889 ranuras de "
+"cartuchos de cinta (ampliable a más de 4 PB en LTO-5).>"
+
+#: aboutus/templates/aboutus/facilities/isos.html:3
+msgid "EOMF Facilities: Integrated Land Observation Sites (iLOS)"
+msgstr ""
+"Instalaciones EOMF: sitios de observación terrestres integrados (iLOS)"
+
+#: aboutus/templates/aboutus/facilities/isos.html:7
+msgid "Integrated Land Observation Sites (iLOS)"
+msgstr "Sitios de observación terrestre integrados (OGI)"
+
+#: aboutus/templates/aboutus/facilities/isos.html:9
+msgid ""
+" The integrated field observation platforms aim to link in-situ observations"
+" with airborne and satellite observations, and collect data for development "
+"and validation of algorithms and models. Through collaboration effort "
+"between OU and USDA/ARS Grazinglands Research Laboratory at El Reno, "
+"Oklahoma, we have established one Integrated Grassland Observation System "
+"(iGOS) for native grassland and one integrated Cropland Observation system "
+"(iCOS) for winter wheat field. It currently has LI-COR instruments for CO2, "
+"H2O and CH4 fluxes, PhenoCam for phenology, and COSMOS for soil moisture, as"
+" well as Oklahoma Mesonet stations.>"
+msgstr ""
+"Las plataformas de observación terrestre integradas tienen como objetivo "
+"vincular observaciones in situ con las observaciones aéreas y por satélite, "
+"y recopilar datos para el desarrollo y validación de algoritmos y modelos. A"
+" través de un esfuerzo de colaboración entre OU y el USDA / ARS Laboratorio "
+"de Investigación de Tierras de Pasto en El Reno, Oklahoma, hemos establecido"
+" un sistema de observación de pastizales Integrado (OIG) de pastizales "
+"nativos y tierras de cultivo un sistema de observación integrado (CICO) para"
+" el campo de trigo de invierno. Actualmente cuenta con instrumentos LI-COR "
+"para el CO2, H2O y flujos de CH4, PhenoCam de fenología y COSMOS de la "
+"humedad del suelo, así como las estaciones de Oklahoma Mesonet.>"
+
+#: aboutus/templates/aboutus/facilities/overview.html:3
+msgid "EOMF Facilities"
+msgstr "Instalaciones EOMF"
+
+#: aboutus/templates/aboutus/facilities/overview.html:7
+#: aboutus/templates/aboutus/leftmenu.html:49
+msgid "Facilities"
+msgstr "Instalaciones"
+
+#: aboutus/templates/aboutus/facilities/overview.html:9
+msgid ""
+"The EOMF is located at the Stephenson Research and Technology Center (SRTC) "
+"in the Research Campus of the University of Oklahoma (<a "
+"href=\"http://srtc.ou.edu/\">http://srtc.ou.edu</a>). The EOMF has "
+"approximately 2500 square feet office space and 2000 square feet laboratory "
+"space at the SRTC. It currently has three core laboratories and one field "
+"observation platform."
+msgstr ""
+"El EOMF se encuentra en el Centro de Investigación y Tecnología Stephenson "
+"(SRTC) en el Campus de Investigación de la Universidad de Oklahoma (<a "
+"href=\"http://srtc.ou.edu/\"> http://srtc.ou.edu </a>). El EOMF tiene "
+"aproximadamente 2,500 pies cuadrados de espacio de oficinas y 2.000 pies "
+"cuadrados de espacio de laboratorio en el SRTC. Actualmente cuenta con tres "
+"laboratorios centrales y una plataforma de observación de campo."
+
+#: aboutus/templates/aboutus/facilities/overview.html:11
+msgid ""
+"The SRTC hosts several research laboratories, including the <a "
+"href=\"http://www.genome.ou.edu/\">Advanced Center for Genome "
+"Technology</a>, <a href=\"http://ieg.ou.edu/\">Institute for Environmental "
+"Genomics</a>, Molecular Anthropology Laboratory, Health and Human Biology "
+"Laboratory, <a href=\"http://bmelab.ou.edu/\">Biomedical Engineering "
+"Laboratory</a>, Ecology Laboratory and the <a "
+"href=\"http://www.oscer.ou.edu\"> OU Supercomputing Center for Education and"
+" Research (OSCER)</a>. It has a meeting room with Tele-Conference facility "
+"and an advanced teaching and meeting room (CORE). The open-space design and "
+"diverse research groups at the SRTC provide a productive environment to "
+"pursue integration of bio-, eco- and geo- informatics."
+msgstr ""
+"El centro SRTC alberga varios laboratorios de investigación, entre ellos el "
+"Centro Avanzado <a href=\"http://www.genome.ou.edu/\"> de Genoma Tecnología "
+"</a>, <a href = \"http: //ieg.ou .edu / \"> Instituto de Genómica Ambiental "
+"</a>, Molecular Laboratorio de Antropología, la Salud y el Laboratorio de "
+"Biología Humana, <a href=\"http://bmelab.ou.edu/\"> Ingeniería Biomédica "
+"Laboratorio </a>, Ecología Laboratorio y la <a "
+"href=\"http://www.oscer.ou.edu\"> OU Supercomputing Centro para la Educación"
+" y la Investigación (oscer) </a>. Cuenta con una sala de reuniones con "
+"instalaciones de Tele-Conferencia y una enseñanza avanzada y sala de "
+"reuniones (CORE). El diseño de espacios abiertos y diversos grupos de "
+"investigación en el SRTC proporcionan un entorno productivo para perseguir "
+"la integración de la bioinformática, ecosistemas y geográficas."
+
+#: aboutus/templates/aboutus/facilities/rslab.html:3
+msgid "EOMF Facilities: Remote sensing Laboratory"
+msgstr "Instalaciones EOMF: Laboratorio de Teledetección"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:8
+msgid "The Remote Sensing Laboratory"
+msgstr "El Laboratorio de Teledetección"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:10
+msgid ""
+"This lab is equipped with a number of instruments for in-situ data "
+"collection in hyperspectral remote sensing, multi-spectral remote sensing, "
+"thermal remote sensing, as well as landscape and vegetation surveys."
+msgstr ""
+"Este laboratorio está equipado con una serie de instrumentos para la "
+"recolección de datos in situ en teledetección hiperespectral, teledetección "
+"multiespectral, la teledetección térmica, así como las encuestas del paisaje"
+" y de la vegetación."
+
+#: aboutus/templates/aboutus/facilities/rslab.html:12
+msgid "Optical remote sensing"
+msgstr "Teledetección óptica"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:14
+msgid "One ASD FieldSpec@Handheld (325 &ndash; 1075 nm)"
+msgstr "Un ASD FieldSpec @ Handheld (325 & amp; ndash; 1075 nm)"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:15
+msgid "One ASD FieldSpec@3 (350 &ndash; 2500 nm)"
+msgstr "Un ASD FieldSpec @ 3 (350 & amp; ndash; 2500 nm)"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:16
+msgid "ASD Integrated Sphere"
+msgstr "ASD Integrado Esfera"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:17
+msgid "Plant probe and leaf clip One ADC Agricultural Digital Camera"
+msgstr "Sonda de Planta y hoja de clip Una cámara digital ADC Agrícola"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:20
+msgid "Thermal remote sensing"
+msgstr "Teledetección térmica"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:23
+msgid "One FLIR R&amp;D infrared camera (FLIR SC600)"
+msgstr "Un FLIR R & amp; amp; D cámara de infrarrojos (FLIR SC600)"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:26
+msgid "Landscape surveys"
+msgstr "Encuestas Paisaje"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:29
+msgid "One Ford F-150 truck"
+msgstr "Un Ford F-150 camioneta"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:30
+msgid "One GeoExplorer 2008 series high accuracy GPS receiver"
+msgstr "Un receptor GPS GeoExplorer serie 2008  de alta precisión"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:31
+msgid "12 handheld GPS receivers, 44 GPS-digital cameras"
+msgstr "12 receptores GPS de mano, 44 ​​cámaras GPS digital"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:34
+msgid "Vegetation analyses"
+msgstr "Análisis de la vegetación"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:37
+msgid "One LI-COR 2000 plant canopy analyzer"
+msgstr "Un LI-COR 2000 planta dosel analizador"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:38
+msgid "One Li-COR 2200 plant canopy analyzer"
+msgstr "Un Li-COR 2200 planta dosel analizador"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:39
+msgid "One oven for drying plant and soil samples"
+msgstr "Un horno para muestras de plantas de secado y de suelo"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:40
+msgid "One refrigerator"
+msgstr "Una nevera"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:42
+msgid "Wild birds and biodiversity"
+msgstr "Las aves silvestres y la biodiversidad"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:44
+msgid "Two binocular for wild bird watch"
+msgstr "Dos binoculares para observar las aves silvestres"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:45
+msgid "12 GPS data loggers"
+msgstr "12 registradores de datos GPS"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:48
+msgid "Mobile workstations"
+msgstr "Estaciones de trabajo móviles"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:51
+msgid "Two mobile PCs (Thinkpad)"
+msgstr "Dos equipos móviles (Thinkpad)"
+
+#: aboutus/templates/aboutus/facilities/rslab.html:52
+msgid "One high-end mobile workstation for the field data collection"
+msgstr ""
+"Una estación de trabajo móvil de alta gama para la recolección de datos de "
+"campo"
+
+#: aboutus/templates/aboutus/facilities/vlab.html:3
+msgid "EOMF Facilities: Data Visualization Laboratory"
+msgstr "EOMF Instalaciones: Laboratorio de Visualización de Datos"
+
+#: aboutus/templates/aboutus/facilities/vlab.html:8
+msgid "The Data Visualization Laboratory"
+msgstr "El Laboratorio de Visualización de Datos"
+
+#: aboutus/templates/aboutus/facilities/vlab.html:10
+msgid ""
+"This lab has a video wall display system for visualization of large-scale "
+"datasets. The Multi-Monitor Displays system is composed of one computer "
+"server and eight 30&rsquo; monitors, and is produced by the CineMassive "
+"Company "
+msgstr ""
+"Este laboratorio cuenta con un sistema de visualización de pantalla de vídeo"
+" para la visualización de datos a gran escala. El sistema muestra Multi-"
+"Monitor se compone de un equipo servidor y ocho 30 &rsquo; monitores, y se "
+"produce por la Compañía CineMassive"
+
+#: aboutus/templates/aboutus/group_photos.html:9
+msgid "Group photos"
+msgstr "Fotos de grupo"
+
+#: aboutus/templates/aboutus/leftmenu.html:2 templates/mainmenu.html:97
+msgid "About Us"
+msgstr "Sobre Nosotros"
+
+#: aboutus/templates/aboutus/leftmenu.html:4
+#: aboutus/templates/aboutus/news.html:7
+msgid "News"
+msgstr "Noticias"
+
+#: aboutus/templates/aboutus/leftmenu.html:7
+msgid "People"
+msgstr "Gente"
+
+#: aboutus/templates/aboutus/leftmenu.html:11
+#: publications/templates/publications/publication_list.html:8
+msgid "Publications"
+msgstr "Publicaciones"
+
+#: aboutus/templates/aboutus/leftmenu.html:15
+#: publications/templates/publications/section_list.html:9
+msgid "Referred Journal Publications"
+msgstr "Publicaciones en Revistas Arbitradas"
+
+#: aboutus/templates/aboutus/leftmenu.html:16
+#: publications/templates/publications/section_list.html:10
+msgid "Books and Book Chapters"
+msgstr "Libros y capítulos de libros"
+
+#: aboutus/templates/aboutus/leftmenu.html:17
+#: publications/templates/publications/section_list.html:11
+#: workshops/templates/workshops/workshop_extra_menu.html:23
+#: workshops/templates/workshops/workshop_presentations.html:8
+msgid "Presentations"
+msgstr "Presentaciones"
+
+#: aboutus/templates/aboutus/leftmenu.html:22
+#: aboutus/templates/aboutus/research/overview.html:8 photos/models.py:109
+msgid "Research"
+msgstr "Investigación"
+
+#: aboutus/templates/aboutus/leftmenu.html:28
+#: aboutus/templates/aboutus/leftmenu.html:41
+#: aboutus/templates/aboutus/leftmenu.html:57
+#: photos/templates/photos/leftmenu.html:4
+#: visualization/templates/visualization/leftmenu.html:3
+#: visualization/templates/visualization/overview.html:8
+#: workshops/templates/workshops/leftmenu.html:4
+msgid "Overview"
+msgstr "Descripción"
+
+#: aboutus/templates/aboutus/leftmenu.html:29
+#: aboutus/templates/aboutus/research/projects.html:9
+msgid "Projects"
+msgstr "Proyectos"
+
+#: aboutus/templates/aboutus/leftmenu.html:30 photos/models.py:145
+msgid "Themes"
+msgstr "Temas"
+
+#: aboutus/templates/aboutus/leftmenu.html:44 templates/mainmenu.html:107
+msgid "GIS Day"
+msgstr "GIS Day"
+
+#: aboutus/templates/aboutus/leftmenu.html:58
+msgid "Computational Lab"
+msgstr "Laboratorio Computacional"
+
+#: aboutus/templates/aboutus/leftmenu.html:59
+msgid "Visualization Lab"
+msgstr "Laboratorio de Visualización"
+
+#: aboutus/templates/aboutus/leftmenu.html:60
+msgid "Remote Sensing Lab"
+msgstr "Laboratorio de Teledetección"
+
+#: aboutus/templates/aboutus/leftmenu.html:61
+msgid "In-situ Observation Sites"
+msgstr "Sitios de observación in situ"
+
+#: aboutus/templates/aboutus/leftmenu.html:64
+msgid "Group Photos"
+msgstr "Fotos de Grupo"
+
+#: aboutus/templates/aboutus/leftmenu.html:65
+#: visualization/templates/visualization/composite.html:182
+msgid "Calendar"
+msgstr "Calendario"
+
+#: aboutus/templates/aboutus/news.html:29
+msgid "Images"
+msgstr "Imágenes"
+
+#: aboutus/templates/aboutus/news.html:52
+msgid "Files"
+msgstr "Archivos"
+
+#: aboutus/templates/aboutus/people.html:3
+msgid "Researchers at EOMF"
+msgstr "Investigadores de EOMF"
+
+#: aboutus/templates/aboutus/people.html:23
+msgid "Researchers at the University of Oklahoma"
+msgstr "Investigadores de la Universidad de Oklahoma"
+
+#: aboutus/templates/aboutus/people.html:32
+msgid ""
+" The following OU IT members provide information technology support and "
+"service to the EOMF. Please contact them at if you have any questions and "
+"need any help related to the computing facilities available at the EOMF(<a "
+"href=\"mailto:support@rccc.ou.edu\">support@rccc.ou.edu</a>) and OSCER(<a "
+"href=\"mailto:support@oscer.ou.edu\">support@oscer.ou.edu</a>) (including "
+"Oklahoma PetaStore and supercomputers)."
+msgstr ""
+"Los siguientes miembros OU IT proporcionan servicio técnico y servicio al "
+"EOMF. Por favor, póngase en contacto con ellos en si tiene alguna pregunta y"
+" necesita ayuda relacionada con las instalaciones de computación disponibles"
+" en el EOMF (<a href=\"mailto:support@rccc.ou.edu\"> support@rccc.ou.edu "
+"</a> ) y oscer (<a href=\"mailto:support@oscer.ou.edu\"> "
+"support@oscer.ou.edu </a>) (incluyendo Oklahoma PetaStore y "
+"supercomputadoras)."
+
+#: aboutus/templates/aboutus/research/overview.html:3
+msgid "EOMF Research"
+msgstr "Investigación EOMF"
+
+#: aboutus/templates/aboutus/research/overview.html:10
+msgid ""
+"The <abbr class=\"initialism\" title=\"Earth Observation and Modelling "
+"Facility\">EOMF</abbr> has worked in a number of research topics and here we"
+" briefly highlight land use and land cover changes, biogeochemical cycles, "
+"ecology and epidemiology of infectious diseases."
+msgstr ""
+"El <abbr class = \"sigla\" title = \"Observación de la Tierra y de las "
+"instalaciones de modelado\"> EOMF </ abbr> ha trabajado en una serie de "
+"temas de investigación y aquí destacar brevemente el uso del suelo y cambios"
+" en la cobertura de la tierra, los ciclos biogeoquímicos, la ecología y "
+"epidemiología de enfermedades infecciosas."
+
+#: aboutus/templates/aboutus/research/overview.html:12
+msgid "Land use and land cover changes"
+msgstr "Uso de la tierra y cambios en la cobertura de la tierra"
+
+#: aboutus/templates/aboutus/research/overview.html:13
+msgid ""
+"We use satellite images from optical sensors (e.g., Landsat, MODIS, and "
+"SPOT-VEGETASTION) and synthetic aperture radar (e.g., PALSAR) to map "
+"croplands, forests, wetlands, and urban in the world."
+msgstr ""
+"Utilizamos imágenes satelitales de los sensores ópticos (por ejemplo, "
+"Landsat, MODIS y SPOT-VEGETASTION) y el radar de apertura sintética (por "
+"ejemplo, PALSAR) para asignar las tierras de cultivo, bosques, humedales y "
+"urbana en el mundo."
+
+#: aboutus/templates/aboutus/research/overview.html:15
+msgid "Biogeochemical cycles"
+msgstr "Ciclos biogeoquímicos"
+
+#: aboutus/templates/aboutus/research/overview.html:16
+msgid ""
+"We combined integrated in-situ observation systems (e.g., eddy co-variance "
+"technique for CO2, water and CH4 fluxes), satellite-based diagnostic models "
+"(e.g., Vegetation Photosynthesis Model), and process-based prognostic models"
+" to quantify and predict changes in biogeochemical cycles of terrestrial "
+"ecosystems."
+msgstr ""
+"Hemos combinado integrado in situ los sistemas de observación (por ejemplo, "
+"la técnica de co-varianza de Foucault para el CO2, el agua y los flujos de "
+"CH4), los modelos de diagnóstico basados ​​en satélites (por ejemplo, la "
+"vegetación Fotosíntesis Model), y los modelos de pronóstico basados ​​en "
+"procesos para cuantificar y predecir los cambios en ciclos biogeoquímicos de"
+" los ecosistemas terrestres."
+
+#: aboutus/templates/aboutus/research/overview.html:19
+msgid "Ecology and epidemiology of infectious diseases"
+msgstr "Ecología y epidemiología de las enfermedades infecciosas"
+
+#: aboutus/templates/aboutus/research/overview.html:20
+msgid ""
+"We applied geospatial technologies to track the dynamics of landscapes "
+"(e.g., wetlands, paddy rice fields) and the local movement and seasonal "
+"migration of wild birds, and then incorporate the resultant geospatial "
+"datasets with spatial epidemiological models to predict hot-spots and hot-"
+"times of highly pathogenic avian influenza (e.g., H5N1 subtype) &nbsp;&nbsp;"
+msgstr ""
+"Aplicamos tecnologías geoespaciales para realizar un seguimiento de la "
+"dinámica de los paisajes (por ejemplo, los humedales, campos de arroz paddy)"
+" y el movimiento local y la migración estacional de las aves silvestres, y "
+"luego incorporar los conjuntos de datos geoespaciales resultantes con los "
+"modelos epidemiológicos espaciales para predecir los puntos calientes y "
+"calientes veces la influenza aviar de alta patogenicidad (por ejemplo, "
+"subtipo H5N1) & amp; nbsp; & amp; nbsp;"
+
+#: aboutus/templates/aboutus/research/projects.html:4
+msgid "EOMF Research projects"
+msgstr "Proyectos de investigación EOMF"
+
+#: aboutus/templates/aboutus/research/projects.html:11
+msgid "Funded Grants (a total of "
+msgstr "Las subvenciones financiados (un total de"
+
+#: accounts/fields.py:9
+msgid "Afghanistan"
+msgstr "Afganistán"
+
+#: accounts/fields.py:10
+msgid "Aland Islands"
+msgstr "Islas Aland"
+
+#: accounts/fields.py:11
+msgid "Albania"
+msgstr "Albania"
+
+#: accounts/fields.py:12
+msgid "Algeria"
+msgstr "Argelia"
+
+#: accounts/fields.py:13
+msgid "American Samoa"
+msgstr "Samoa Americana"
+
+#: accounts/fields.py:14
+msgid "Andorra"
+msgstr "Andorra"
+
+#: accounts/fields.py:15
+msgid "Angola"
+msgstr "Angola"
+
+#: accounts/fields.py:16
+msgid "Anguilla"
+msgstr "Anguila"
+
+#: accounts/fields.py:17
+msgid "Antigua and Barbuda"
+msgstr "Antigua y Barbuda"
+
+#: accounts/fields.py:18
+msgid "Argentina"
+msgstr "Argentina"
+
+#: accounts/fields.py:19
+msgid "Armenia"
+msgstr "Armenia"
+
+#: accounts/fields.py:20
+msgid "Aruba"
+msgstr "Aruba"
+
+#: accounts/fields.py:21
+msgid "Australia"
+msgstr "Australia"
+
+#: accounts/fields.py:22
+msgid "Austria"
+msgstr "Austria"
+
+#: accounts/fields.py:23
+msgid "Azerbaijan"
+msgstr "Azerbaiyán"
+
+#: accounts/fields.py:24
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: accounts/fields.py:25
+msgid "Bahrain"
+msgstr "Bahrein"
+
+#: accounts/fields.py:26
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: accounts/fields.py:27
+msgid "Barbados"
+msgstr "Barbados"
+
+#: accounts/fields.py:28
+msgid "Belarus"
+msgstr "Bielorrusia"
+
+#: accounts/fields.py:29
+msgid "Belgium"
+msgstr "Bélgica"
+
+#: accounts/fields.py:30
+msgid "Belize"
+msgstr "Belice"
+
+#: accounts/fields.py:31
+msgid "Benin"
+msgstr "Benin"
+
+#: accounts/fields.py:32
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: accounts/fields.py:33
+msgid "Bhutan"
+msgstr "Bhután"
+
+#: accounts/fields.py:34
+msgid "Bolivia"
+msgstr "Bolivia"
+
+#: accounts/fields.py:35
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnia y Herzegovina"
+
+#: accounts/fields.py:36
+msgid "Botswana"
+msgstr "Botswana"
+
+#: accounts/fields.py:37
+msgid "Brazil"
+msgstr "Brasil"
+
+#: accounts/fields.py:38
+msgid "British Virgin Islands"
+msgstr "Islas Vírgenes Británicas"
+
+#: accounts/fields.py:39
+msgid "Brunei Darussalam"
+msgstr "Brunei Darussalam"
+
+#: accounts/fields.py:40
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+#: accounts/fields.py:41
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: accounts/fields.py:42
+msgid "Burundi"
+msgstr "Burundi"
+
+#: accounts/fields.py:43
+msgid "Cambodia"
+msgstr "Camboya"
+
+#: accounts/fields.py:44
+msgid "Cameroon"
+msgstr "Camerún"
+
+#: accounts/fields.py:45
+msgid "Canada"
+msgstr "Canadá"
+
+#: accounts/fields.py:46
+msgid "Cape Verde"
+msgstr "Cabo Verde"
+
+#: accounts/fields.py:47
+msgid "Cayman Islands"
+msgstr "Islas Caimán"
+
+#: accounts/fields.py:48
+msgid "Central African Republic"
+msgstr "República Centroafricana"
+
+#: accounts/fields.py:49
+msgid "Chad"
+msgstr "Chad"
+
+#: accounts/fields.py:50
+msgid "Channel Islands"
+msgstr "Islas Del Canal"
+
+#: accounts/fields.py:51
+msgid "Chile"
+msgstr "Chile"
+
+#: accounts/fields.py:52
+msgid "China"
+msgstr "China"
+
+#: accounts/fields.py:53
+msgid "China - Hong Kong"
+msgstr "China - Hong Kong"
+
+#: accounts/fields.py:54
+msgid "China - Macao"
+msgstr "China - Macao"
+
+#: accounts/fields.py:55
+msgid "Colombia"
+msgstr "Colombia"
+
+#: accounts/fields.py:56
+msgid "Comoros"
+msgstr "Comoras"
+
+#: accounts/fields.py:57
+msgid "Congo"
+msgstr "Congo"
+
+#: accounts/fields.py:58
+msgid "Cook Islands"
+msgstr "Islas Cook"
+
+#: accounts/fields.py:59
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: accounts/fields.py:60
+msgid "Cote d'Ivoire"
+msgstr "Costa de Marfil"
+
+#: accounts/fields.py:61
+msgid "Croatia"
+msgstr "Croacia"
+
+#: accounts/fields.py:62
+msgid "Cuba"
+msgstr "Cuba"
+
+#: accounts/fields.py:63
+msgid "Cyprus"
+msgstr "Chipre"
+
+#: accounts/fields.py:64
+msgid "Czech Republic"
+msgstr "República Checa"
+
+#: accounts/fields.py:65
+msgid "Democratic People's Republic of Korea"
+msgstr "República Popular Democrática de Corea"
+
+#: accounts/fields.py:66
+msgid "Democratic Republic of the Congo"
+msgstr "República Democrática del Congo"
+
+#: accounts/fields.py:67
+msgid "Denmark"
+msgstr "Dinamarca"
+
+#: accounts/fields.py:68
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: accounts/fields.py:69
+msgid "Dominica"
+msgstr "Dominica"
+
+#: accounts/fields.py:70
+msgid "Dominican Republic"
+msgstr "República Dominicana"
+
+#: accounts/fields.py:71
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: accounts/fields.py:72
+msgid "Egypt"
+msgstr "Egipto"
+
+#: accounts/fields.py:73
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: accounts/fields.py:74
+msgid "Equatorial Guinea"
+msgstr "Guinea Ecuatorial"
+
+#: accounts/fields.py:75
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: accounts/fields.py:76
+msgid "Estonia"
+msgstr "Estonia"
+
+#: accounts/fields.py:77
+msgid "Ethiopia"
+msgstr "Etiopía"
+
+#: accounts/fields.py:78
+msgid "Faeroe Islands"
+msgstr "Islas Feroe"
+
+#: accounts/fields.py:79
+msgid "Falkland Islands (Malvinas)"
+msgstr "Islas Malvinas (Falkland)"
+
+#: accounts/fields.py:80
+msgid "Fiji"
+msgstr "Fiji"
+
+#: accounts/fields.py:81
+msgid "Finland"
+msgstr "Finlandia"
+
+#: accounts/fields.py:82
+msgid "France"
+msgstr "Francia"
+
+#: accounts/fields.py:83
+msgid "French Guiana"
+msgstr "Guiana francés"
+
+#: accounts/fields.py:84
+msgid "French Polynesia"
+msgstr "Polinesia francés"
+
+#: accounts/fields.py:85
+msgid "Gabon"
+msgstr "Gabón"
+
+#: accounts/fields.py:86
+msgid "Gambia"
+msgstr "Gambia"
+
+#: accounts/fields.py:87
+msgid "Georgia"
+msgstr "Georgia"
+
+#: accounts/fields.py:88
+msgid "Germany"
+msgstr "Alemania"
+
+#: accounts/fields.py:89
+msgid "Ghana"
+msgstr "Ghana"
+
+#: accounts/fields.py:90
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: accounts/fields.py:91
+msgid "Greece"
+msgstr "Grecia"
+
+#: accounts/fields.py:92
+msgid "Greenland"
+msgstr "Groenlandia"
+
+#: accounts/fields.py:93
+msgid "Grenada"
+msgstr "Granada"
+
+#: accounts/fields.py:94
+msgid "Guadeloupe"
+msgstr "Guadalupe"
+
+#: accounts/fields.py:95
+msgid "Guam"
+msgstr "Guam"
+
+#: accounts/fields.py:96
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: accounts/fields.py:97
+msgid "Guernsey"
+msgstr "Guernsey"
+
+#: accounts/fields.py:98
+msgid "Guinea"
+msgstr "Guinea"
+
+#: accounts/fields.py:99
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+#: accounts/fields.py:100
+msgid "Guyana"
+msgstr "Guayana"
+
+#: accounts/fields.py:101
+msgid "Haiti"
+msgstr "Haití"
+
+#: accounts/fields.py:102
+msgid "Holy See (Vatican City)"
+msgstr "Santa Sede (Ciudad del Vaticano)"
+
+#: accounts/fields.py:103
+msgid "Honduras"
+msgstr "Honduras"
+
+#: accounts/fields.py:104
+msgid "Hungary"
+msgstr "Hungría"
+
+#: accounts/fields.py:105
+msgid "Iceland"
+msgstr "Islandia"
+
+#: accounts/fields.py:106
+msgid "India"
+msgstr "India"
+
+#: accounts/fields.py:107
+msgid "Indonesia"
+msgstr "Indonesia"
+
+#: accounts/fields.py:108
+msgid "Iran"
+msgstr "Irán"
+
+#: accounts/fields.py:109
+msgid "Iraq"
+msgstr "Irak"
+
+#: accounts/fields.py:110
+msgid "Ireland"
+msgstr "Irlanda"
+
+#: accounts/fields.py:111
+msgid "Isle of Man"
+msgstr "Isla de Man"
+
+#: accounts/fields.py:112
+msgid "Israel"
+msgstr "Israel"
+
+#: accounts/fields.py:113
+msgid "Italy"
+msgstr "Italia"
+
+#: accounts/fields.py:114
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: accounts/fields.py:115
+msgid "Japan"
+msgstr "Japón"
+
+#: accounts/fields.py:116
+msgid "Jersey"
+msgstr "Jersey"
+
+#: accounts/fields.py:117
+msgid "Jordan"
+msgstr "Jordania"
+
+#: accounts/fields.py:118
+msgid "Kazakhstan"
+msgstr "Kazajstán"
+
+#: accounts/fields.py:119
+msgid "Kenya"
+msgstr "Kenia"
+
+#: accounts/fields.py:120
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: accounts/fields.py:121
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: accounts/fields.py:122
+msgid "Kyrgyzstan"
+msgstr "Kirguistán"
+
+#: accounts/fields.py:123
+msgid "Lao People's Democratic Republic"
+msgstr "República Democrática Popular Lao"
+
+#: accounts/fields.py:124
+msgid "Latvia"
+msgstr "Letonia"
+
+#: accounts/fields.py:125
+msgid "Lebanon"
+msgstr "Líbano"
+
+#: accounts/fields.py:126
+msgid "Lesotho"
+msgstr "Lesoto"
+
+#: accounts/fields.py:127
+msgid "Liberia"
+msgstr "Liberia"
+
+#: accounts/fields.py:128
+msgid "Libyan Arab Jamahiriya"
+msgstr "Jamahiriya Árabe Libia"
+
+#: accounts/fields.py:129
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: accounts/fields.py:130
+msgid "Lithuania"
+msgstr "Lituania"
+
+#: accounts/fields.py:131
+msgid "Luxembourg"
+msgstr "Luxemburgo"
+
+#: accounts/fields.py:132
+msgid "Macedonia"
+msgstr "Macedonia"
+
+#: accounts/fields.py:133
+msgid "Madagascar"
+msgstr "Madagascar"
+
+#: accounts/fields.py:134
+msgid "Malawi"
+msgstr "Malawi"
+
+#: accounts/fields.py:135
+msgid "Malaysia"
+msgstr "Malasia"
+
+#: accounts/fields.py:136
+msgid "Maldives"
+msgstr "Maldivas"
+
+#: accounts/fields.py:137
+msgid "Mali"
+msgstr "Malí"
+
+#: accounts/fields.py:138
+msgid "Malta"
+msgstr "Malta"
+
+#: accounts/fields.py:139
+msgid "Marshall Islands"
+msgstr "Islas Marshall"
+
+#: accounts/fields.py:140
+msgid "Martinique"
+msgstr "Martinica"
+
+#: accounts/fields.py:141
+msgid "Mauritania"
+msgstr "Mauritania"
+
+#: accounts/fields.py:142
+msgid "Mauritius"
+msgstr "Mauricio"
+
+#: accounts/fields.py:143
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: accounts/fields.py:144
+msgid "Mexico"
+msgstr "México"
+
+#: accounts/fields.py:145
+msgid "Micronesia, Federated States of"
+msgstr "Micronesia, Estados Federados de"
+
+#: accounts/fields.py:146
+msgid "Monaco"
+msgstr "Mónaco"
+
+#: accounts/fields.py:147
+msgid "Mongolia"
+msgstr "Mongolia"
+
+#: accounts/fields.py:148
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: accounts/fields.py:149
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: accounts/fields.py:150
+msgid "Morocco"
+msgstr "Marruecos"
+
+#: accounts/fields.py:151
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: accounts/fields.py:152
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: accounts/fields.py:153
+msgid "Namibia"
+msgstr "Namibia"
+
+#: accounts/fields.py:154
+msgid "Nauru"
+msgstr "Nauru"
+
+#: accounts/fields.py:155
+msgid "Nepal"
+msgstr "Nepal"
+
+#: accounts/fields.py:156
+msgid "Netherlands"
+msgstr "Países Bajos"
+
+#: accounts/fields.py:157
+msgid "Netherlands Antilles"
+msgstr "Antillas Holandesas"
+
+#: accounts/fields.py:158
+msgid "New Caledonia"
+msgstr "Nueva Caledonia"
+
+#: accounts/fields.py:159
+msgid "New Zealand"
+msgstr "Nueva Zelanda"
+
+#: accounts/fields.py:160
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: accounts/fields.py:161
+msgid "Niger"
+msgstr "Níger"
+
+#: accounts/fields.py:162
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: accounts/fields.py:163
+msgid "Niue"
+msgstr "Niue"
+
+#: accounts/fields.py:164
+msgid "Norfolk Island"
+msgstr "Isla Norfolk"
+
+#: accounts/fields.py:165
+msgid "Northern Mariana Islands"
+msgstr "Islas Marianas del Norte"
+
+#: accounts/fields.py:166
+msgid "Norway"
+msgstr "Noruega"
+
+#: accounts/fields.py:167
+msgid "Occupied Palestinian Territory"
+msgstr "Territorio Palestino Ocupado"
+
+#: accounts/fields.py:168
+msgid "Oman"
+msgstr "Omán"
+
+#: accounts/fields.py:169
+msgid "Pakistan"
+msgstr "Pakistán"
+
+#: accounts/fields.py:170
+msgid "Palau"
+msgstr "Palau"
+
+#: accounts/fields.py:171
+msgid "Panama"
+msgstr "Panamá"
+
+#: accounts/fields.py:172
+msgid "Papua New Guinea"
+msgstr "Papúa Nueva Guinea"
+
+#: accounts/fields.py:173
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: accounts/fields.py:174
+msgid "Peru"
+msgstr "Perú"
+
+#: accounts/fields.py:175
+msgid "Philippines"
+msgstr "Filipinas"
+
+#: accounts/fields.py:176
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#: accounts/fields.py:177
+msgid "Poland"
+msgstr "Polonia"
+
+#: accounts/fields.py:178
+msgid "Portugal"
+msgstr "Portugal"
+
+#: accounts/fields.py:179
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: accounts/fields.py:180
+msgid "Qatar"
+msgstr "Katar"
+
+#: accounts/fields.py:181
+msgid "Republic of Korea"
+msgstr "República de Corea"
+
+#: accounts/fields.py:182
+msgid "Republic of Moldova"
+msgstr "República de Moldova"
+
+#: accounts/fields.py:183
+msgid "Reunion"
+msgstr "Reunión"
+
+#: accounts/fields.py:184
+msgid "Romania"
+msgstr "Rumania"
+
+#: accounts/fields.py:185
+msgid "Russian Federation"
+msgstr "Federación Rusa"
+
+#: accounts/fields.py:186
+msgid "Rwanda"
+msgstr "Ruanda"
+
+#: accounts/fields.py:187
+msgid "Saint-Barthelemy"
+msgstr "Saint-Barthelemy"
+
+#: accounts/fields.py:188
+msgid "Saint Helena"
+msgstr "Santa Helena"
+
+#: accounts/fields.py:189
+msgid "Saint Kitts and Nevis"
+msgstr "San Cristóbal y Nieves"
+
+#: accounts/fields.py:190
+msgid "Saint Lucia"
+msgstr "Santa Lucía"
+
+#: accounts/fields.py:191
+msgid "Saint-Martin (French part)"
+msgstr "Saint-Martin (parte francesa)"
+
+#: accounts/fields.py:192
+msgid "Saint Pierre and Miquelon"
+msgstr "San Pedro y Miquelón"
+
+#: accounts/fields.py:193
+msgid "Saint Vincent and the Grenadines"
+msgstr "San Vicente y las Granadinas"
+
+#: accounts/fields.py:194
+msgid "Samoa"
+msgstr "Samoa"
+
+#: accounts/fields.py:195
+msgid "San Marino"
+msgstr "San Marino"
+
+#: accounts/fields.py:196
+msgid "Sao Tome and Principe"
+msgstr "Santo Tomé y Príncipe"
+
+#: accounts/fields.py:197
+msgid "Saudi Arabia"
+msgstr "Arabia Saudita"
+
+#: accounts/fields.py:198
+msgid "Senegal"
+msgstr "Senegal"
+
+#: accounts/fields.py:199
+msgid "Serbia"
+msgstr "Serbia"
+
+#: accounts/fields.py:200
+msgid "Seychelles"
+msgstr "Seychelles"
+
+#: accounts/fields.py:201
+msgid "Sierra Leone"
+msgstr "Sierra Leona"
+
+#: accounts/fields.py:202
+msgid "Singapore"
+msgstr "Singapur"
+
+#: accounts/fields.py:203
+msgid "Slovakia"
+msgstr "Eslovaquia"
+
+#: accounts/fields.py:204
+msgid "Slovenia"
+msgstr "Eslovenia"
+
+#: accounts/fields.py:205
+msgid "Solomon Islands"
+msgstr "Islas Salomón"
+
+#: accounts/fields.py:206
+msgid "Somalia"
+msgstr "Somalia"
+
+#: accounts/fields.py:207
+msgid "South Africa"
+msgstr "Sudáfrica"
+
+#: accounts/fields.py:208
+msgid "Spain"
+msgstr "España"
+
+#: accounts/fields.py:209
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: accounts/fields.py:210
+msgid "Sudan"
+msgstr "Sudán"
+
+#: accounts/fields.py:211
+msgid "Suriname"
+msgstr "Suriname"
+
+#: accounts/fields.py:212
+msgid "Svalbard and Jan Mayen Islands"
+msgstr "Svalbard y Jan Mayen"
+
+#: accounts/fields.py:213
+msgid "Swaziland"
+msgstr "Swazilandia"
+
+#: accounts/fields.py:214
+msgid "Sweden"
+msgstr "Suecia"
+
+#: accounts/fields.py:215
+msgid "Switzerland"
+msgstr "Suiza"
+
+#: accounts/fields.py:216
+msgid "Syrian Arab Republic"
+msgstr "República Árabe Siria"
+
+#: accounts/fields.py:217
+msgid "Tajikistan"
+msgstr "Tayikistán"
+
+#: accounts/fields.py:218
+msgid "Thailand"
+msgstr "Tailandia"
+
+#: accounts/fields.py:219
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+
+#: accounts/fields.py:220
+msgid "Togo"
+msgstr "Togo"
+
+#: accounts/fields.py:221
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: accounts/fields.py:222
+msgid "Tonga"
+msgstr "Tonga"
+
+#: accounts/fields.py:223
+msgid "Trinidad and Tobago"
+msgstr "Trinidad y Tobago"
+
+#: accounts/fields.py:224
+msgid "Tunisia"
+msgstr "Túnez"
+
+#: accounts/fields.py:225
+msgid "Turkey"
+msgstr "Pavo"
+
+#: accounts/fields.py:226
+msgid "Turkmenistan"
+msgstr "Turkmenistán"
+
+#: accounts/fields.py:227
+msgid "Turks and Caicos Islands"
+msgstr "Islas Turcas y Caicos"
+
+#: accounts/fields.py:228
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: accounts/fields.py:229
+msgid "Uganda"
+msgstr "Uganda"
+
+#: accounts/fields.py:230
+msgid "Ukraine"
+msgstr "Ucrania"
+
+#: accounts/fields.py:231
+msgid "United Arab Emirates"
+msgstr "Emiratos Árabes Unidos"
+
+#: accounts/fields.py:232
+msgid "United Kingdom"
+msgstr "Reino Unido"
+
+#: accounts/fields.py:233
+msgid "United Republic of Tanzania"
+msgstr "República Unida de Tanzanía"
+
+#: accounts/fields.py:234
+msgid "United States of America"
+msgstr "Estados Unidos de América"
+
+#: accounts/fields.py:235
+msgid "United States Virgin Islands"
+msgstr "Islas Vírgenes Americanas"
+
+#: accounts/fields.py:236
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: accounts/fields.py:237
+msgid "Uzbekistan"
+msgstr "Uzbekistán"
+
+#: accounts/fields.py:238
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: accounts/fields.py:239
+msgid "Venezuela (Bolivarian Republic of)"
+msgstr "Venezuela (República Bolivariana de)"
+
+#: accounts/fields.py:240
+msgid "Viet Nam"
+msgstr "Viet Nam"
+
+#: accounts/fields.py:241
+msgid "Wallis and Futuna Islands"
+msgstr "Islas Wallis y Futuna"
+
+#: accounts/fields.py:242
+msgid "Western Sahara"
+msgstr "Sahara Occidental"
+
+#: accounts/fields.py:243
+msgid "Yemen"
+msgstr "Yemen"
+
+#: accounts/fields.py:244
+msgid "Zambia"
+msgstr "Zambia"
+
+#: accounts/fields.py:245
+msgid "Zimbabwe"
+msgstr "Zimbabue"
+
+#: accounts/forms.py:43
+msgid "Please Login"
+msgstr "Por Favor Inicie Sesión"
+
+#: accounts/forms.py:71 accounts/templates/accounts/register.html:32
+#: photos/templates/photos/search_form.html:40
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: accounts/forms.py:72
+msgid "This value must contain only letters, numbers and underscores."
+msgstr "Este valor debe contener sólo letras, números y guiones bajos."
+
+#: accounts/forms.py:75 accounts/templates/accounts/register.html:71
+msgid "First name"
+msgstr "Nombre"
+
+#: accounts/forms.py:76 accounts/templates/accounts/register.html:77
+msgid "Last name"
+msgstr "Apellido"
+
+#: accounts/forms.py:80 accounts/templates/accounts/register.html:41
+msgid "Email address"
+msgstr "Dirección de correo electrónico"
+
+#: accounts/forms.py:84 accounts/templates/accounts/register.html:50
+msgid "Password"
+msgstr "Contraseña"
+
+#: accounts/forms.py:88 accounts/templates/accounts/register.html:59
+msgid "Password (again)"
+msgstr "Contraseña (de nuevo)"
+
+#: accounts/forms.py:108
+msgid "A user with that username already exists."
+msgstr "Un usuario con ese nombre ya existe."
+
+#: accounts/forms.py:117
+msgid ""
+"This email address is already in use. Please supply a different email "
+"address."
+msgstr ""
+"Esta dirección de correo ya está en uso. Por favor, facilite una dirección "
+"de correo electrónico diferente."
+
+#: accounts/forms.py:130
+msgid "The two password fields didn't match."
+msgstr "Los dos campos de contraseña no coinciden."
+
+#: accounts/models.py:10 photos/models.py:70 photos/models.py:101
+msgid "Country"
+msgstr "País"
+
+#: accounts/models.py:11
+msgid "Affiliation"
+msgstr "Afiliación"
+
+#: accounts/models.py:12
+msgid "Telephone"
+msgstr "Teléfono"
+
+#: accounts/models.py:13
+msgid "Address1"
+msgstr "Dirección 1"
+
+#: accounts/models.py:14
+msgid "Address2"
+msgstr "Dirección 2"
+
+#: accounts/models.py:15
+msgid "City"
+msgstr "Ciudad"
+
+#: accounts/models.py:16
+#: visualization/templates/visualization/multiple.html:41
+msgid "State"
+msgstr "Estado"
+
+#: accounts/models.py:17
+msgid "Postal code"
+msgstr "Código postal"
+
+#: accounts/models.py:18 pages/admin.py:12 pages/models.py:7
+msgid "URL"
+msgstr "URL"
+
+#: accounts/models.py:19
+msgid "Attending GIS Day"
+msgstr "Asistir GISDay"
+
+#: accounts/templates/accounts/edit.html:4
+msgid "EOMF: Edit account"
+msgstr "EOMF: Editar cuenta"
+
+#: accounts/templates/accounts/edit.html:11
+msgid "Edit Account"
+msgstr "Editar Cuenta"
+
+#: accounts/templates/accounts/leftmenu.html:2 templates/mainmenu.html:109
+msgid "Account"
+msgstr "Cuenta"
+
+#: accounts/templates/accounts/leftmenu.html:8
+msgid "View Profile"
+msgstr "Ver Perfil"
+
+#: accounts/templates/accounts/leftmenu.html:11
+msgid "Edit Profile"
+msgstr "Editar Perfil"
+
+#: accounts/templates/accounts/leftmenu.html:14
+msgid "Change Password"
+msgstr "Cambiar La Contraseña"
+
+#: accounts/templates/accounts/leftmenu.html:17
+#: photos/templates/photos/leftmenu.html:28
+msgid "Log out"
+msgstr "Cerrar sesión"
+
+#: accounts/templates/accounts/leftmenu.html:21
+#: accounts/templates/accounts/login.html:7
+#: accounts/templates/accounts/password_reset_complete.html:14
+#: photos/templates/photos/leftmenu.html:32
+msgid "Log in"
+msgstr "Iniciar sesión"
+
+#: accounts/templates/accounts/leftmenu.html:24
+#: photos/templates/photos/leftmenu.html:35
+msgid "Register"
+msgstr "Registrarse"
+
+#: accounts/templates/accounts/leftmenu.html:27
+msgid "Reset Password"
+msgstr "Restablecer La Contraseña"
+
+#: accounts/templates/accounts/leftmenu.html:32
+#: photos/templates/photos/leftmenu.html:39
+msgid "Admin Site"
+msgstr "Administrador del Sitio"
+
+#: accounts/templates/accounts/login.html:3
+msgid "EOMF: Log in"
+msgstr "EOMF: Entrar"
+
+#: accounts/templates/accounts/logout.html:5
+msgid "Logged out"
+msgstr "Sesión terminada"
+
+#: accounts/templates/accounts/password_change_done.html:4
+#: accounts/templates/accounts/password_change_done.html:8
+msgid "Password change successful"
+msgstr "Cambio de contraseña realizado con éxito."
+
+#: accounts/templates/accounts/password_change_done.html:10
+msgid "Your password was changed."
+msgstr "Su contraseña fue cambiada."
+
+#: accounts/templates/accounts/password_change_form.html:4
+#: accounts/templates/accounts/password_change_form.html:8
+msgid "Password change"
+msgstr "Cambio de contraseña"
+
+#: accounts/templates/accounts/password_change_form.html:10
+msgid ""
+"Please enter your old password, for security's sake, and then enter your new"
+" password twice so we can verify you typed it in correctly."
+msgstr ""
+"Introduzca su contraseña antigua, por su seguridad, y luego ingrese su nueva"
+" contraseña dos veces para que podamos verificar que está escrita "
+"correctamente."
+
+#: accounts/templates/accounts/password_change_form.html:15
+msgid "Old password:"
+msgstr "Contraseña anterior:"
+
+#: accounts/templates/accounts/password_change_form.html:17
+#: accounts/templates/accounts/password_reset_confirm.html:19
+msgid "New password:"
+msgstr "Nueva contraseña:"
+
+#: accounts/templates/accounts/password_change_form.html:19
+#: accounts/templates/accounts/password_reset_confirm.html:21
+msgid "Confirm password:"
+msgstr "Confirmar contraseña:"
+
+#: accounts/templates/accounts/password_change_form.html:21
+#: accounts/templates/accounts/password_reset_confirm.html:22
+msgid "Change my password"
+msgstr "Cambiar mi contraseña"
+
+#: accounts/templates/accounts/password_reset_complete.html:4
+#: accounts/templates/accounts/password_reset_confirm.html:4
+#: accounts/templates/accounts/password_reset_done.html:4
+#: accounts/templates/accounts/password_reset_form.html:4
+#: templates/mainmenu.html:96
+msgid "Home"
+msgstr "Inicio"
+
+#: accounts/templates/accounts/password_reset_complete.html:4
+#: accounts/templates/accounts/password_reset_confirm.html:6
+#: accounts/templates/accounts/password_reset_done.html:4
+#: accounts/templates/accounts/password_reset_form.html:4
+#: accounts/templates/accounts/password_reset_form.html:6
+#: accounts/templates/accounts/password_reset_form.html:10
+msgid "Password reset"
+msgstr "Restablecer de contraseña"
+
+#: accounts/templates/accounts/password_reset_complete.html:6
+#: accounts/templates/accounts/password_reset_complete.html:10
+msgid "Password reset complete"
+msgstr "Restablecimiento de contraseña completo"
+
+#: accounts/templates/accounts/password_reset_complete.html:12
+msgid "Your password has been set.  You may go ahead and log in now."
+msgstr ""
+"Su contraseña se ha establecido. Usted puede seguir adelante y acceder "
+"ahora."
+
+#: accounts/templates/accounts/password_reset_confirm.html:4
+msgid "Password reset confirmation"
+msgstr "Confirmación de restablecimiento de contraseña"
+
+#: accounts/templates/accounts/password_reset_confirm.html:12
+msgid "Enter new password"
+msgstr "Introduzca una nueva contraseña"
+
+#: accounts/templates/accounts/password_reset_confirm.html:14
+msgid ""
+"Please enter your new password twice so we can verify you typed it in "
+"correctly."
+msgstr ""
+"Introduzca su nueva contraseña dos veces para que podamos verificar las ha "
+"escrito correctamente."
+
+#: accounts/templates/accounts/password_reset_confirm.html:27
+msgid "Password reset unsuccessful"
+msgstr "Restablecimiento de contraseña sin éxito"
+
+#: accounts/templates/accounts/password_reset_confirm.html:29
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used.  Please request a new password reset."
+msgstr ""
+"El enlace de restablecimiento de contraseña no es válida, posiblemente "
+"debido a que ya se ha utilizado. Por favor, solicite un nuevo "
+"restablecimiento de contraseña."
+
+#: accounts/templates/accounts/password_reset_done.html:6
+#: accounts/templates/accounts/password_reset_done.html:10
+msgid "Password reset successful"
+msgstr "Restablecimiento de contraseña exitoso"
+
+#: accounts/templates/accounts/password_reset_done.html:12
+msgid ""
+"We've e-mailed you instructions for setting your password to the e-mail "
+"address you submitted. You should be receiving it shortly."
+msgstr ""
+"Hemos le enviará por correo electrónico las instrucciones para configurar su"
+" contraseña a la dirección de correo electrónico que ha enviado. Usted debe "
+"recibir en breve."
+
+#: accounts/templates/accounts/password_reset_email.html:2
+msgid "You're receiving this e-mail because you requested a password reset"
+msgstr ""
+"Usted está recibiendo este correo electrónico porque ha solicitado un "
+"restablecimiento de contraseña"
+
+#: accounts/templates/accounts/password_reset_email.html:3
+#, python-format
+msgid "for your user account at %(site_name)s"
+msgstr "para la cuenta de usuario en %(site_name)s "
+
+#: accounts/templates/accounts/password_reset_email.html:5
+msgid "Please go to the following page and choose a new password:"
+msgstr "Por favor, vaya a la siguiente página y elija una contraseña nueva:"
+
+#: accounts/templates/accounts/password_reset_email.html:9
+msgid "Your username, in case you've forgotten: "
+msgstr "Su nombre de usuario, en caso de que he olvidado:"
+
+#: accounts/templates/accounts/password_reset_email.html:11
+msgid "Thanks for using our site!"
+msgstr "Gracias por usar nuestra web!"
+
+#: accounts/templates/accounts/password_reset_email.html:13
+msgid "The EOMF team"
+msgstr "El equipo EOMF"
+
+#: accounts/templates/accounts/password_reset_form.html:12
+msgid ""
+"Forgotten your password? Enter your e-mail address below, and well e-mail "
+"instructions for setting a new one."
+msgstr ""
+"Olvidaste tu contraseña? Introduce tu dirección de correo electrónico a "
+"continuación, y le enviaremos las instrucciones de correo electrónico para "
+"establecer una nueva."
+
+#: accounts/templates/accounts/password_reset_form.html:17
+msgid "E-mail address:"
+msgstr "Dirección de correo electrónico:"
+
+#: accounts/templates/accounts/password_reset_form.html:18
+msgid "Reset my password"
+msgstr "Restablecer mi contraseña"
+
+#: accounts/templates/accounts/register.html:5
+#: accounts/templates/accounts/register.html:26
+msgid "Create an account"
+msgstr "Crear una cuenta"
+
+#: accounts/templates/accounts/register.html:30
+msgid "Required User Information"
+msgstr "Información del usuario Requerido"
+
+#: accounts/templates/accounts/register.html:69
+msgid "Extended Profile"
+msgstr "Perfil ampliado"
+
+#: accounts/templates/accounts/register.html:85
+msgid "Create Account"
+msgstr "Crear Cuenta"
+
+#: dbgettext_files/dbgettext/aboutus/group/Group_1/name.py:2
+msgid "Professors"
+msgstr "Profesores"
+
+#: dbgettext_files/dbgettext/aboutus/group/Group_10/name.py:2
+msgid "Information Technology Support Group"
+msgstr "Grupo de Apoyo de Tecnología de la Información"
+
+#: dbgettext_files/dbgettext/aboutus/group/Group_4/name.py:2
+msgid "Post-doctoral Researchers"
+msgstr "Los investigadores postdoctorales"
+
+#: dbgettext_files/dbgettext/aboutus/group/Group_5/name.py:2
+msgid "Graduate  and Undergraduate students"
+msgstr "Graduados y Estudiantes de pregrado"
+
+#: dbgettext_files/dbgettext/aboutus/group/Group_6/name.py:2
+msgid "Research scientists, post-doctoral research associates, and staff"
+msgstr ""
+"Los científicos de investigación, asociados de investigación postdoctorales "
+"y personal"
+
+#: dbgettext_files/dbgettext/aboutus/group/Group_8/name.py:2
+msgid "Visiting Scholars"
+msgstr "Investigadores Visitantes"
+
+#: dbgettext_files/dbgettext/aboutus/group/Group_9/name.py:2
+msgid "Alumni"
+msgstr "Alumni"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_1/title.py:2
+msgid "Professor"
+msgstr "Profesor"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_10/title.py:2
+#: dbgettext_files/dbgettext/aboutus/person/Person_17/title.py:2
+#: dbgettext_files/dbgettext/aboutus/person/Person_18/title.py:2
+msgid "Associate Professor"
+msgstr "Profesor Asociado"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_11/title.py:2
+msgid "Ph.D student "
+msgstr "Estudiante de doctorado"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_12/title.py:2
+#: dbgettext_files/dbgettext/aboutus/person/Person_13/title.py:2
+#: dbgettext_files/dbgettext/aboutus/person/Person_15/title.py:2
+#: dbgettext_files/dbgettext/aboutus/person/Person_38/title.py:2
+#: dbgettext_files/dbgettext/aboutus/person/Person_44/title.py:2
+#: dbgettext_files/dbgettext/aboutus/person/Person_51/title.py:2
+msgid "Ph.D student"
+msgstr "Estudiante de doctorado"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_14/title.py:2
+msgid "Info Tech Specialist "
+msgstr "Especialista en Información técnica"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_16/title.py:2
+msgid "M.S student"
+msgstr "Estudiante M.S"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_19/title.py:2
+#: dbgettext_files/dbgettext/aboutus/person/Person_20/title.py:2
+#: dbgettext_files/dbgettext/aboutus/person/Person_23/title.py:2
+#: dbgettext_files/dbgettext/aboutus/person/Person_24/title.py:2
+#: dbgettext_files/dbgettext/aboutus/person/Person_36/title.py:2
+#: dbgettext_files/dbgettext/aboutus/person/Person_37/title.py:2
+msgid "PostDoc Research Associate "
+msgstr "PostDoc Investigador Asociado"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_2/title.py:2
+#: dbgettext_files/dbgettext/aboutus/person/Person_22/title.py:2
+msgid "Research Scientist"
+msgstr "Investigador Científico"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_21/title.py:2
+msgid "Graduate Student"
+msgstr "Estudiante Graduado"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_25/title.py:2
+#: dbgettext_files/dbgettext/aboutus/person/Person_30/title.py:2
+#: dbgettext_files/dbgettext/aboutus/person/Person_31/title.py:2
+msgid "Visiting Scholar"
+msgstr "Visiting Scholar"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_26/title.py:2
+#: dbgettext_files/dbgettext/aboutus/person/Person_8/title.py:2
+msgid "PostDoc Research Associate"
+msgstr "PostDoc Investigador Asociado"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_27/title.py:2
+#: dbgettext_files/dbgettext/aboutus/person/Person_7/title.py:2
+msgid "Master student"
+msgstr "Estudiante de Maestro"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_28/title.py:2
+msgid "Undergraduate Student"
+msgstr "Estudiantes de Pregrado"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_29/title.py:2
+msgid "Visiting Scholar "
+msgstr "Visiting Scholar"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_3/title.py:2
+msgid "Ph.D.in Resources science"
+msgstr "Ciencia Recursos Ph.D.in"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_32/title.py:2
+msgid "Research Campus Tech. Developer"
+msgstr "Investigación Campus Tech. Revelador"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_33/title.py:2
+msgid "Director of Research Computing Services"
+msgstr "Director de Investigación de Servicios Informáticos"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_34/title.py:2
+msgid "Director of Data Center Operations"
+msgstr "Director de Operaciones del Centro de Datos"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_35/title.py:2
+msgid "Info Tech Specialist"
+msgstr "Especialista en Información técnica"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_4/title.py:2
+#: dbgettext_files/dbgettext/aboutus/person/Person_43/title.py:2
+msgid "Research Assistant Professor"
+msgstr "Profesor Asistente de Investigación"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_45/title.py:2
+msgid "Research Informatics"
+msgstr "Informática de Investigación"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_46/title.py:2
+msgid "B.S. Student"
+msgstr "B.S. Estudiante"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_47/title.py:2
+msgid "M. S. Student"
+msgstr "M. S. Estudiante"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_49/title.py:2
+msgid "Ph.D. Student"
+msgstr "Ph.D. Estudiante"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_5/title.py:2
+msgid "Graduate research assistant"
+msgstr "Graduados asistente de investigación"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_50/title.py:2
+msgid "Ph. D student"
+msgstr "Estudiante de doctorado"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_6/title.py:2
+msgid "Assistant Professor"
+msgstr "Profesor Asistente"
+
+#: dbgettext_files/dbgettext/aboutus/person/Person_9/title.py:2
+msgid "M.S student "
+msgstr "Estudiante M.S"
+
+#: dbgettext_files/dbgettext/aboutus/post/Post_1/content.py:2
+msgid ""
+"In an effort to support citizen science and community remote sensing, EOM "
+"developed and released the first iPhone App \"Field Photo\", it is freely "
+"available to the public. See http://www.eomf.ou.edu/photos/ for more "
+"information and download it from Apple Store https://itunes.apple.com/us/app"
+"/field-photo/id717945301. The Field Photo App allows students, researchers "
+"and citizens to take photos during field trips, geotag them and add metadata"
+" and field notes to the photos. The field photos are then uploaded to the "
+"Global Geo-Referenced Field Photo Library at the University of Oklahoma, "
+"where people share, visualize and archive field photos that document land "
+"use and land cover change, flood, drought, fire, and so on. These photos and"
+" associated thematic databases are also used to support satellite image "
+"analyses for monitoring the dynamics of Planet Earth, where now more than "
+"seven billions of people live. The integration of mobile phone, Geo-"
+"Referenced Field Photo Library and satellite images allows us to socialize "
+"the pixels in the images."
+msgstr ""
+"En un esfuerzo por apoyar la ciencia ciudadana y la teledetección de la "
+"comunidad, MOE desarrolló y lanzó la primera aplicación para iPhone \"Field "
+"Photo\" que es de libre acceso al público. Ver "
+"http://www.eomf.ou.edu/photos/ para obtener más información y descargar "
+"desde Apple Store https://itunes.apple.com/us/app/field-photo/id717945301. "
+"field Photo App permite a estudiantes, investigadores y ciudadanos tomar "
+"fotos durante las excursiones, geolocalizarlas y añadir metadatos y notas de"
+" campo a las mismas. Las fotos de campo son entonces subidas a nuestra "
+"librería global georeferenciada en la Universidad de Oklahoma, donde la "
+"gente comparte, y visualiza fotos de campo de archivos que documentan el uso"
+" del suelo y el cambio de la cubierta de la tierra, inundaciones, sequías, "
+"incendios, ... Estas fotos y bases de datos temáticas asociadas también se "
+"utilizan para apoyar los análisis de imágenes de satélite para el "
+"seguimiento de la dinámica del planeta Tierra, donde ahora más de siete mil "
+"millones de personas viven. La integración de la telefonía móvil, geo-"
+"referenciados campo Photo Library y las imágenes de satélite nos permite "
+"socializar los píxeles de las imágenes."
+
+#: dbgettext_files/dbgettext/aboutus/post/Post_1/title.py:2
+msgid ""
+"The iPhone App \"Field Photo\" is now available for citizen science and "
+"community remote sensing"
+msgstr ""
+"La aplicación para iPhone \"Field Photo\" ahora está disponible para la "
+"ciencia ciudadana y teledetección comunidad"
+
+#: dbgettext_files/dbgettext/aboutus/post/Post_10/content.py:2
+msgid ""
+"Dr. Xiao travelled to Hanoi, Vietnam and co-chaired the 5th workshop with "
+"Dr. Scott Newman from the Food and Agriculture Organization (FAO) of the "
+"United Nations. This workshop was co-sponsored by the National Institutes of"
+" Health (NIH) Fogarty International Center (FIC), the Food and Agriculture "
+"Organization (FAO) of the United Nations, the University of Oklahoma (OU) "
+"and the Department of Animal Health (DAH) of the Vietnamese Ministry of "
+"Agriculture and Rural Development. The FAO Country Office in Vietnam and the"
+" Department of Animal Production and Health provided local logistical "
+"support for the workshop. It was composed of a 2-day scientific meeting in "
+"Hanoi, Vietnam and a 3-day field trip in the Red River Delta, Vietnam, where"
+" H5N1 outbreaks have persisted over years and where there are frequent trade"
+" movements in poultry and wildlife between northern Vietnam and Southern "
+"China."
+msgstr ""
+"Dr. Xiao viajó a Hanoi, Vietnam y co-presidió el quinto taller con el Dr. "
+"Scott Newman de la Organización para la Agricultura y la Alimentación (FAO) "
+"de las Naciones Unidas. Este taller fue co-patrocinado por los Institutos "
+"Nacionales de Salud (NIH) Centro Internacional Fogarty (FIC), la "
+"Organización para la Agricultura y la Alimentación (FAO) de las Naciones "
+"Unidas, la Universidad de Oklahoma (OU) y el Departamento de Sanidad Animal "
+"(DAH ) del Ministerio de Agricultura y Desarrollo Rural de Vietnam. La "
+"Oficina de Países de la FAO en Vietnam y el Departamento de Producción "
+"Animal y Salud proporcionaron apoyo logístico local para el taller. Se "
+"compone de una reunión científica de 2 días en Hanoi, Vietnam y una "
+"excursión de 3 días en el delta del río Rojo, Vietnam, donde los brotes de "
+"H5N1 han persistido durante años y donde hay movimiento de los intercambios "
+"frecuentes de aves y vida silvestre entre el norte de Vietnam y el sur de "
+"China."
+
+#: dbgettext_files/dbgettext/aboutus/post/Post_10/title.py:2
+msgid ""
+"The 5th International Workshop on Community-based Data Synthesis, Analysis "
+"and Modeling of Highly Pathogenic Avian Influenza (May 27 - 31, 2013, Hanoi,"
+" Vietnam)"
+msgstr ""
+"El quinto Taller Internacional sobre los Datos Síntesis basada en la "
+"comunidad, Análisis y Modelado de influenza aviar altamente patógena (27 a "
+"31 mayo 2013, Hanoi, Vietnam)"
+
+#: dbgettext_files/dbgettext/aboutus/post/Post_11/content.py:2
+msgid ""
+"The EOMF is part of a multi-institution team that received US$9.6 million "
+"from the USDA for an interdisciplinary project “Resilience and vulnerability"
+" of beef cattle production in the Southern Great Plains under changing "
+"climate, land use and markets” (2/15/2013 – 2/14/2018). Other partners of "
+"the project team include Oklahoma State University, Kansas State University,"
+" Texas Tarleton State University, the Samuel R. Noble Foundation, and two "
+"USDA ARS laboratories."
+msgstr ""
+"El EOMF es parte de un equipo multi-institución de Estados Unidos que "
+"recibió 9,6 millones dólares de la USDA para un proyecto interdisciplinario "
+"\"La resiliencia y la vulnerabilidad de la producción de ganado de carne en "
+"las Grandes Planicies del Sur bajo el cambio climático, el uso de la tierra "
+"y los mercados\" (02.15.2013 - 14/02/2018). Otros socios del equipo del "
+"proyecto incluyen la Universidad del Estado de Oklahoma, la Universidad "
+"Estatal de Kansas, Texas Tarleton State University, la Fundación Samuel R. "
+"Noble, y dos laboratorios del ARS USDA."
+
+#: dbgettext_files/dbgettext/aboutus/post/Post_11/title.py:2
+msgid ""
+"The EOMF received USDA fund to study of the effect of weather and climate "
+"variability on beef cattle production systems in the Southern Great Plains, "
+"USA"
+msgstr ""
+"El EOMF recibió fondos de USDA para estudiar el efecto del clima y la "
+"variabilidad climática en el ganado de carne los sistemas de producción en "
+"el sur de las Grandes Planicies, EE.UU."
+
+#: dbgettext_files/dbgettext/aboutus/post/Post_2/content.py:2
+msgid ""
+"The EOMF is one member of a multi-institution and international team for an "
+"interdisciplinary project \"Effects of anthropogenic habitat perturbation on"
+" rodent population dynamics and risk of rodent-borne diseases\". This 5-year"
+" project (2013-2018) will be carried out in Peru, Bolivia and Paraguay "
+"through close collaboration with a number of local institutions and "
+"researchers in these three countries. Institutional partners in USA are (1) "
+"Tulane School of Public Health and Tropical Medicine, (2) University of "
+"Kansas, and (3) University of Oklahoma. The EOMF team will use geospatial "
+"technologies to characterize land use and land cover changes, and provide "
+"the resultant geospatial data to support spatial models in the project. The "
+"project is funded by the Inter-American Institute for Global Change Research"
+" (IAI) Collaborative Research Network (CRN3) program."
+msgstr ""
+"El EOMF  es un miembro de un multi-institución y equipo internacional para "
+"un proyecto interdisciplinario \"Efectos de la perturbación del hábitat "
+"antropogénico sobre la dinámica poblacional de roedores y el riesgo de "
+"enfermedades transmitidas por roedores\". Este proyecto de 5 años "
+"(2013-2018) se llevará a cabo en Perú, Bolivia y Paraguay a través de una "
+"estrecha colaboración con una serie de instituciones e investigadores "
+"locales en estos tres países. Socios institucionales en EE.UU. son (1) "
+"Escuela de Tulane de Salud Pública y Medicina Tropical, (2) de la "
+"Universidad de Kansas, y (3) de la Universidad de Oklahoma. El equipo EOMF "
+"utilizará tecnologías geoespaciales para caracterizar el uso del suelo y la "
+"cobertura de la tierra cambia, y proporcionar los datos geoespaciales "
+"resultantes para apoyar modelos espaciales en el proyecto. El proyecto está "
+"financiado por el Instituto Interamericano de programa de Investigación del "
+"Cambio Global (IAI) Redes de Investigación Cooperativa (CRN3) para."
+
+#: dbgettext_files/dbgettext/aboutus/post/Post_2/title.py:2
+msgid ""
+"EOMF participated in a 5-year project that studies deforestation and rodent-"
+"borne diseases in South America"
+msgstr ""
+"EOMF participó en un proyecto de 5 años que estudia las enfermedades de la "
+"deforestación y los roedores de América del Sur"
+
+#: dbgettext_files/dbgettext/aboutus/post/Post_3/content.py:2
+msgid ""
+"With the supports from the USDA interdisciplinary project “Resilience and "
+"vulnerability of beef cattle production in the Southern Great Plains under "
+"changing climate, land use and markets” and the NASA LCLUC project "
+"“Quantifying changes in agricultural intensification, expansion and gross "
+"primary production in monsoon Asia during 2000-2010”, eight EOMF members "
+"(Pradeep Wagle, Yuanwei Qin, Nyambayar Batbayar, Michael Angelo Menarguez, "
+"Cui Jin, Jie Wang, Yuting Zhou, and Jinwei Dong) attended the AGU 2013 "
+"meeting in San Francisco from December 8-13, 2013. Three posters were "
+"presented from the EOMF in the meeting, showing the recent progress in the "
+"LCLUC and water quality remote sensing fields in the EOMF. Dr. Jinwei Dong "
+"gave the poster presentation titled “Improved estimation of forest area in "
+"tropical Africa through ALOS/PALSAR 50-m orthorectified mosaic images” "
+"(B23D-0580). Ms. Cui Jin presented the poster titled “Mapping paddy rice "
+"using multi-temporal Landsat imagery in the Sanjiang Plain, Northeast China”"
+" (B41A-0389); and Ms. Jie Wang talked about “Detecting Chlorophyll and "
+"Phycocyanin in Lake Texoma Using in Situ Photo from GPS Digital Camera and "
+"Landsat 8 OLI Imagery” (H43G-1546) on behalf of Dr. Jinheng Zhang."
+msgstr ""
+"Con los apoyos del proyecto interdisciplinario USDA \"La resiliencia y la "
+"vulnerabilidad de la producción de ganado de carne en las Grandes Planicies "
+"del Sur bajo el cambio climático, el uso de la tierra y los mercados\" y el "
+"proyecto de la NASA LCLUC \"Cuantificación de los cambios en la "
+"intensificación de la agricultura, la expansión y la producción primaria "
+"bruta en Asia monzónica durante 2000-2010 \", ocho miembros EOMF (Pradeep "
+"Wagle, Yuanwei Qin, Nyambayar Batbayar, Miguel Ángel Menárguez, Cui Jin, Jie"
+" Wang, Yuting Zhou y Jinwei Dong) asistieron a la reunión AGU 2013 en San "
+"Francisco del 08 al 13 diciembre, 2013. Tres carteles se presentaron desde "
+"el EOMF en la reunión, que muestra el progreso reciente en los LCLUC y la "
+"calidad del agua campos de percepción remota en el grupo EOMF. Dr. Jinwei "
+"Dong dio la presentación del cartel titulado \"Mejora de la estimación de la"
+" superficie forestal en África tropical a través de ALOS / PALSAR 50-m "
+"imágenes mosaico ortorectificada\" (B23D-0580). Sra. Cui Jin presentó el "
+"cartel titulado \"arroz con cáscara Mapping utilizando imágenes Landsat "
+"multitemporal de la llanura Sanjiang, noreste de China\" (B41A-0389); y la "
+"Sra Jie Wang habló de \"Detección de clorofila y ficocianina en Lake Texoma "
+"Uso en Foto Situ de Cámara digital GPS y Landsat 8 OLI Imagery\" "
+"(H43G-1546), en nombre del Dr. Jinheng Zhang."
+
+#: dbgettext_files/dbgettext/aboutus/post/Post_3/content.py:4
+msgid ""
+"For detailed information about the presentations, please check the column "
+"\"About US\"/\"Publication\"/\"Presentations\" in this website later."
+msgstr ""
+"Para obtener información detallada acerca de las presentaciones, por favor "
+"marque la columna \"Sobre nosotros\" / \"Publicaciónes\" / "
+"\"Presentaciones\" en este sitio web."
+
+#: dbgettext_files/dbgettext/aboutus/post/Post_3/title.py:2
+msgid "Eight EOMF members attended the AGU 2013 meeting in San Francisco"
+msgstr ""
+"Ocho miembros del EOMF asistieron a la reunión AGU 2013 en San Francisco"
+
+#: dbgettext_files/dbgettext/aboutus/post/Post_4/content.py:2
+msgid ""
+"In an effort to support citizen science and community remote sensing, EOMF "
+"developed and released the first android App \"Field Photo\", it is freely "
+"available to the public. See http://www.eomf.ou.edu/photos/ for more "
+"information and download it from Google Play Store "
+"https://play.google.com/store/apps/details?id=com.eomf . The Field Photo App"
+" allows students, researchers and citizens to take photos during field "
+"trips, geotag them and add metadata and field notes to the photos. The field"
+" photos are then uploaded to the Global Geo-Referenced Field Photo Library "
+"at the University of Oklahoma, where people share, visualize and archive "
+"field photos that document land use and land cover change, flood, drought, "
+"fire, and so on. These photos and associated thematic databases are also "
+"used to support satellite image analyses for monitoring the dynamics of "
+"Planet Earth, where now more than seven billions of people live. The "
+"integration of mobile phone, Geo-Referenced Field Photo Library and "
+"satellite images allows us to socialize the pixels in the images."
+msgstr ""
+"En un esfuerzo por apoyar la ciencia ciudadana y la teledetección de la "
+"comunidad, EOMF desarrolló y lanzó la primera aplicación para Android "
+"\"Campo de fotos\", es de libre acceso al público. Ver "
+"http://www.eomf.ou.edu/photos/ para obtener más información y descargar "
+"desde Google Play Store "
+"https://play.google.com/store/apps/details?id=com.eomf. El Campo Foto App "
+"permite a estudiantes, investigadores y ciudadanos para tomar fotos durante "
+"las excursiones, geolocalizar ellos y añadir metadatos y notas de campo a "
+"las fotos. Las fotos de campo son entonces cargan en el campo Photo Library "
+"Georreferencial Global en la Universidad de Oklahoma, donde la gente "
+"comparte, visualizar y fotos de campo de archivos que documentan el uso del "
+"suelo y el cambio de la cubierta de la tierra, inundaciones, sequías, "
+"incendios, y así sucesivamente. Estas fotos y bases de datos temáticas "
+"asociadas también se utilizan para apoyar los análisis de imágenes de "
+"satélite para el seguimiento de la dinámica del planeta Tierra, donde ahora "
+"más de siete mil millones de personas viven. La integración de la telefonía "
+"móvil, geo-referenciados campo Photo Library y las imágenes de satélite nos "
+"permite socializar los píxeles de las imágenes."
+
+#: dbgettext_files/dbgettext/aboutus/post/Post_4/title.py:2
+msgid ""
+"The Android App \"Field Photo\" is now available for citizen science and "
+"community remote sensing"
+msgstr ""
+"La aplicación para Android \"Field Photo\" ahora está disponible para la "
+"ciencia ciudadana y la comunidad científica de teledetección "
+
+#: dbgettext_files/dbgettext/aboutus/post/Post_5/content.py:2
+msgid ""
+"As part of the EOMF’s effort to study the highly pathogenic avian influenza "
+"H5N1 virus circulation in migratory wild bird populations across flyways, we"
+" use a number of new technologies to study bird migration and connectivity "
+"between wintering and breeding sites. In summer of 2013, Nyambayar Batbayar,"
+" a PhD student, conducted field studies in Mongolia and deployed a number of"
+" geo-light loggers on Barn Swallows and White-throated Bushchats, and "
+"cellular tracking and satellite transmitters on White-naped Cranes. On these"
+" projects, he is collaborating with Oklahoma Biological Survey, Oriental "
+"Bird Club, International Crane Foundation, US Forest Service, Poyang Lake "
+"Nature Reserve in China, Mongolian Academy of Sciences, and Wildlife Science"
+" and Conservation Center of Mongolia."
+msgstr ""
+"Como parte del esfuerzo de la EOMF para estudiar la gripe aviar circulación "
+"del virus H5N1 altamente patógena en poblaciones de aves silvestres "
+"migratorias en toda rutas migratorias, utilizamos una serie de nuevas "
+"tecnologías para estudiar la migración de aves y la conectividad entre los "
+"sitios de invernada y cría. En verano de 2013, Nyambayar Batbayar, un "
+"estudiante de doctorado, realizó estudios de campo en Mongolia y desplegó un"
+" número de registradores de geo-luz en Golondrinas y garganta blanca "
+"Bushchats y seguimiento de satélites y transmisores de celulares en Grúas "
+"Blanco-naped. En estos proyectos, se está colaborando con Oklahoma "
+"Biological Survey, Oriental Club de Aves, Fundación Internacional Grulla, "
+"Servicio Forestal de Estados Unidos, la Reserva Natural del Lago Poyang en "
+"China, Mongolia Academia de las Ciencias y de la fauna Ciencia y Centro de "
+"Conservación de Mongolia."
+
+#: dbgettext_files/dbgettext/aboutus/post/Post_5/title.py:2
+msgid "New technologies help to track wild bird migrations from Mongolia"
+msgstr ""
+"Las nuevas tecnologías ayudan a realizar un seguimiento de las migraciones "
+"de aves silvestres de Mongolia"
+
+#: dbgettext_files/dbgettext/aboutus/post/Post_6/content.py:2
+msgid ""
+"As part of a collaborative effort between OU Department of Microbiology and "
+"Plant Biology (DMPB), OU School of Meteorology (SoM), the Oklahoma "
+"Climatological Survey (OCS), and the USDA ARS Grazinglands Research "
+"Laboratory (GRL), two integrated grassland observation sites (iGOS) have "
+"recently been established at the USDA ARS Grazinglands Research Laboratory, "
+"EL Reno, Oklahoma. One iGOS site sits on native grasslands, which has never "
+"been cultivated, and the other iGOS site sits on improved pasturelands. Each"
+" site is equipped with an advanced eddy covariance tower system for "
+"measuring energy, carbon, water and methane fluxes between the land surface "
+"and the atmosphere, a Phenocam to track plant phenology, and a COSMOS "
+"instrument to measure soil moisture at the landscape scale. In addition, "
+"hyperspectral, multispectral and thermal remote sensing measurements are "
+"routinely carried out at the sites. The iGOS sites are also co-located with "
+"the Oklahoma Mesonet El Reno site. This collaborative project has been "
+"supported by the NSF EPSCoR projects and USDA NIFA project and will carry "
+"out multiple year observations at the iGOS sites (up to 5 years with current"
+" NSF and USDA grants, and subsequently as part of the Southern Plains Long-"
+"term Agroecosystem Research Network)."
+msgstr ""
+"Como parte de un esfuerzo de colaboración entre el Departamento de OU de "
+"Microbiología y Biología Vegetal (DMPB), escuela OU de Meteorología (SOM), "
+"los Oklahoma climatológica Survey (OCS), y el Laboratorio de Investigación "
+"de Tierras de Pasto ARS USDA (GRL), dos sitios de observación de pastizales "
+"integrada (OIG) se han establecido recientemente en el Laboratorio de "
+"Investigación de Tierras de Pasto ARS USDA, El Reno, Oklahoma. Un sitio OIG "
+"se sienta en los pastizales nativos, que nunca ha sido cultivada, y el otro "
+"sitio OIG se sienta en la mejora de pastizales. Cada sitio está equipado con"
+" un sistema de torre de covarianza eddy avanzada para la medición de la "
+"energía, el carbono, el agua y los flujos de metano entre la superficie "
+"terrestre y la atmósfera, un Phenocam para rastrear la fenología de la "
+"planta, y un instrumento COSMOS para medir la humedad del suelo a escala de "
+"paisaje. Además, hiperespectral, mediciones de teledetección "
+"multiespectrales y térmicas se llevan a cabo de forma rutinaria en los "
+"sitios. Los sitios de las organizaciones intergubernamentales son también "
+"co-localizados con el sitio Oklahoma Mesonet El Reno. Este proyecto de "
+"colaboración ha sido apoyado por los proyectos NSF EPSCoR y proyecto USDA "
+"NIFA y llevará a cabo observaciones múltiples años en los sitios de las "
+"organizaciones intergubernamentales (hasta 5 años con NSF actual y "
+"subvenciones del USDA, y posteriormente como parte del sur de los llanos a "
+"largo plazo Agroecosistemas Red de Investigación)."
+
+#: dbgettext_files/dbgettext/aboutus/post/Post_6/content.py:4
+msgid ""
+"For more information about the iGOS sites, please contact Dr. Jeffrey Basara"
+" (jbasara@ou.edu), Dr. Jean Steiner (jean.steiner@ars.usda.gov), and Dr. "
+"Xiangming Xiao (xiangming.xiao@ou.edu)."
+msgstr ""
+"Para obtener más información sobre los sitios de las organizaciones "
+"intergubernamentales, por favor póngase en contacto con el Dr. Jeffrey "
+"Basara (jbasara@ou.edu), el Dr. Jean Steiner (jean.steiner@ars.usda.gov), y "
+"el Dr. Xiangming Xiao (xiangming.xiao@ou. edu)."
+
+#: dbgettext_files/dbgettext/aboutus/post/Post_6/title.py:2
+msgid ""
+"Two Integrated Grassland Observation Sites (iGOS) started to operate at El "
+"Reno, Oklahoma"
+msgstr ""
+"Dos sitios Integrados de Observación de pastizal (iGOS) comenzazron a operar"
+" en El Reno, Oklahoma"
+
+#: dbgettext_files/dbgettext/aboutus/post/Post_7/content.py:2
+msgid ""
+"The EOMF is part of a multi-institution and international team that received"
+" $1.9 million from the National Institute of Allergy and Infectious Diseases"
+" (NIAID), National Institutes of Health for an interdisciplinary project "
+"\"Transmission dynamics and spillover of avian influenza under changing "
+"agriculture intensification and landscape\" (7/23/2013 – 6/30/2017). Major "
+"institutional partners of the project are (1) Free University of Brussels, "
+"Belgium, (2) University of Warwick, UK, (3) Chinese Center for Disease "
+"Control and Prevention, Beijing, China, (4) US Geological Survey, "
+"California, USA, and (5) Food and Agriculture Organization of the United "
+"Nations, Rome, Italy. The project will carry out field work in Poyang Lake, "
+"Chin and Thailand.[PDF]"
+msgstr ""
+"El EOMF es parte de un equipo multi-institución internacional que recibió "
+"1,9 millones de dólares del Instituto Nacional de Alergias y Enfermedades "
+"Infecciosas (NIAID), Institutos Nacionales de Salud para un proyecto "
+"interdisciplinario \"la dinámica de transmisión y el contagio de la gripe "
+"aviar bajo cambiando la intensificación agrícola y paisaje \"(07/23/2013 a "
+"06/30/2017). Principales socios institucionales del proyecto son (1) de la "
+"Universidad Libre de Bruselas, Bélgica, (2) de la Universidad de Warwick, "
+"Reino Unido, (3) Centro Chino para el Control y Prevención de Enfermedades, "
+"de Beijing, China, (4) Servicio Geológico de Estados Unidos, California, "
+"EE.UU., y (5) Alimentación y la Organización de las Naciones Unidas, Roma, "
+"Italia Agricultura. El proyecto llevará a cabo trabajo de campo en el lago "
+"Poyang, Chin y Tailandia. [PDF]"
+
+#: dbgettext_files/dbgettext/aboutus/post/Post_7/title.py:2
+msgid ""
+"The EOMF received NIH fund to study highly pathogenic avian influenza H5N1 "
+"subtype in China and Thailand"
+msgstr ""
+"El EOMF recibió fondos del NIH para estudiar la altamente patógena gripe "
+"aviar (H5N1) en China y Tailandia"
+
+#: dbgettext_files/dbgettext/aboutus/post/Post_9/content.py:2
+msgid ""
+"The EOMF is part of a multi-institution team that received $20 millions from"
+" National Science Foundation for an interdisciplinary project “Adapting "
+"socio-ecological systems to increased climate variability” (6/1/2013 – "
+"5/31/2018). Major institutional partners of the project are Oklahoma State "
+"University, the University of Oklahoma, the Samuel R. Noble Foundation, and "
+"the University of Tulsa."
+msgstr ""
+"El EOMF es parte de un equipo multi-institucional que recibió $ 20 millones "
+"de la Fundación Nacional de Ciencia para un proyecto interdisciplinario "
+"\"Adaptación de los sistemas socio-ecológicos a una mayor variabilidad del "
+"clima\" (06.01.2013 a 05.31.2018). Principales socios institucionales del "
+"proyecto son la Universidad del Estado de Oklahoma, la Universidad de "
+"Oklahoma, la Fundación Samuel R. Noble, y la Universidad de Tulsa."
+
+#: dbgettext_files/dbgettext/aboutus/post/Post_9/title.py:2
+msgid ""
+"The EOMF received NSF fund to study socio-ecological systems in Oklahoma, "
+"USA    "
+msgstr ""
+"El EOMF recibió fondos de la NSF para estudiar los sistemas socio-ecológicos"
+" en Oklahoma, EE.UU."
+
+#: dbgettext_files/dbgettext/photos/category/Category_1/name.py:2
+msgid "Unclassified"
+msgstr "Sin clasificación"
+
+#: dbgettext_files/dbgettext/photos/category/Category_10/name.py:2
+msgid "Savannas"
+msgstr "Sabanas"
+
+#: dbgettext_files/dbgettext/photos/category/Category_11/name.py:2
+msgid "Grasslands"
+msgstr "Praderas"
+
+#: dbgettext_files/dbgettext/photos/category/Category_12/name.py:2
+msgid "Permanent Wetlands"
+msgstr "Pantanos Permanentes"
+
+#: dbgettext_files/dbgettext/photos/category/Category_13/name.py:2
+msgid "Croplands"
+msgstr "Tierras de cultivo"
+
+#: dbgettext_files/dbgettext/photos/category/Category_14/name.py:2
+msgid "Urban and Built-Up"
+msgstr "Urbano y construido"
+
+#: dbgettext_files/dbgettext/photos/category/Category_15/name.py:2
+msgid "Cropland/Natural Vegetation Mosaic"
+msgstr "Tierras de cultivo / mosaico de vegetación natural"
+
+#: dbgettext_files/dbgettext/photos/category/Category_16/name.py:2
+msgid "Permanent Snow and Ice"
+msgstr "Nieve y Hielo Permanente"
+
+#: dbgettext_files/dbgettext/photos/category/Category_17/name.py:2
+msgid "Barren or Sparsely Vegetated"
+msgstr "Tierra Valdía o con escasa vegetación"
+
+#: dbgettext_files/dbgettext/photos/category/Category_18/name.py:2
+msgid "Water Bodies"
+msgstr "Cuerpos de agua"
+
+#: dbgettext_files/dbgettext/photos/category/Category_19/name.py:2
+msgid "Plantations"
+msgstr "Plantaciones"
+
+#: dbgettext_files/dbgettext/photos/category/Category_2/name.py:2
+msgid "Evergreen Needleleaf Forest"
+msgstr "Bosque de Coníferas Perennes"
+
+#: dbgettext_files/dbgettext/photos/category/Category_20/name.py:2
+msgid "Orchards"
+msgstr "Huertos"
+
+#: dbgettext_files/dbgettext/photos/category/Category_3/name.py:2
+msgid "Deciduous Needleleaf Forest"
+msgstr "Bosque de Coníferas de hoja caduca "
+
+#: dbgettext_files/dbgettext/photos/category/Category_4/name.py:2
+msgid "Evergreen Broadleaf Forest"
+msgstr "Bosque perenne de hoja ancha"
+
+#: dbgettext_files/dbgettext/photos/category/Category_5/name.py:2
+msgid "Deciduous Broadleaf Forest"
+msgstr "Bosque caduco de hoja ancha"
+
+#: dbgettext_files/dbgettext/photos/category/Category_6/name.py:2
+msgid "Mixed Forest"
+msgstr "Bosque Mixto"
+
+#: dbgettext_files/dbgettext/photos/category/Category_7/name.py:2
+msgid "Closed Shrublands"
+msgstr "MAtorrales de interior"
+
+#: dbgettext_files/dbgettext/photos/category/Category_8/name.py:2
+msgid "Open Shrublands"
+msgstr "Matorrales de Exterior"
+
+#: dbgettext_files/dbgettext/photos/category/Category_9/name.py:2
+msgid "Woody Savannas"
+msgstr "Sabanas de Bosque"
+
+#: dbgettext_files/dbgettext/workshops/workshop/Workshop_1/description.py:2
+msgid ""
+"This workshop builds upon the 4 previous community-based data synthesis, "
+"analysis and modeling of Highly Pathogenic Avian Influenza workshops, which "
+"were coordinated by NIH, FAO and the University of Oklahoma; held in "
+"Bangkok, Thailand (2009), Beijing, China (2010, 2011), and Rome, Italy "
+"(2012). At the conclusion of the 4th workshop (November 2102) participants "
+"suggested that the broad scale, regional risk assessments and models "
+"developed to date may have limited applicability to national, provincial or "
+"local level issues related to influenza introduction, transmission and "
+"persistence. THe objective of the workshop to be held in May 2013 is to "
+"bring together multi-disciplinary international experts, national government"
+" representatives and experts, technical staff and other partners to explore "
+"disease risk factors at local levels. The desired outcome is to determine "
+"how influenza risk assessment and modeling should be pursued in order to "
+"capitalize on multi-disciplinary expertise and benefit national priority-"
+"setting for the prevention, response and control of HPAI."
+msgstr ""
+"Este taller se basa en los 4 anteriores de síntesis de datos basado en la "
+"comunidad, el análisis y la modelización de los talleres de gripe aviar "
+"altamente patógena, que fueron coordinados por el NIH, la FAO y la "
+"Universidad de Oklahoma; celebrada en Bangkok, Tailandia (2009), Beijing, "
+"China (2010, 2011), y Roma, Italia (2012). A la conclusión del cuarto taller"
+" (noviembre 2102) los participantes sugirieron que la escala amplia, las "
+"evaluaciones de riesgos regionales y los modelos desarrollados hasta la "
+"fecha puede tener una aplicabilidad limitada a las cuestiones nacionales, "
+"provinciales o locales de nivel relacionados con la introducción de la "
+"influenza, la transmisión y persistencia. El objetivo del taller que se "
+"celebrará en mayo de 2013 es de reunir a expertos multidisciplinarios "
+"internacionales, representantes de gobiernos nacionales y expertos, técnicos"
+" y otros socios para explorar los factores de riesgo de la enfermedad a "
+"nivel local. El resultado deseado es determinar cómo deben llevarse a cabo "
+"la evaluación de riesgos de la gripe y el modelado con el fin de sacar "
+"provecho de la experiencia multidisciplinaria y beneficiar el "
+"establecimiento de prioridades nacionales para la prevención, respuesta y "
+"control de la influenza aviar altamente patógena."
+
+#: dbgettext_files/dbgettext/workshops/workshop/Workshop_1/name.py:2
+msgid ""
+"The 5th International Workshop on Highly Pathogenic Influenza Risk "
+"Assessment and Risk Modling: Transitioning from Global to Local Assessments"
+msgstr ""
+"El quinto Taller internacional sobre la evaluación de riesgos altamente de "
+"la altamente patógena influenza y minimización de riesgos: Cambiando de "
+"evaluaciones locales a mundiales."
+
+#: dbgettext_files/dbgettext/workshops/workshop/Workshop_2/description.py:2
+msgid ""
+"This workshop builds upon the three previous community-based data synthesis, analysis and modeling of Highly \n"
+"Pathogenic Avian Influenza workshops, which were coordinated by NIH, FAO and University of Oklahoma since 2009. \n"
+"The focus of the workshop in November 2012 will bring together the experience and expertise arising from four \n"
+"different projects or initiatives, namely NIH, EPT+, CDC and FLURISK and it results from the interest shared by \n"
+"partners to better assess and model the potential risk of evolution and spread of pandemic influenza.   "
+msgstr ""
+"Este taller se basa en los tres anteriores sobre la síntesis de datos basado en la comunidad, el análisis y la modelización de alta\n"
+"Talleres influenza aviar patógenas, que fueron coordinados por el NIH, la FAO y la Universidad de Oklahoma desde 2009.\n"
+"El enfoque del taller en noviembre de 2012 reunirá a la experiencia y los conocimientos derivados de cuatro\n"
+"diferentes proyectos o iniciativas, a saber, NIH, EPT +, CDC y FLURISK y resulta de interés compartido por\n"
+"socios para evaluar mejor y modelar el riesgo potencial de la evolución y la propagación de la influenza pandémica."
+
+#: dbgettext_files/dbgettext/workshops/workshop/Workshop_2/name.py:2
+msgid ""
+"The 4th International Workshop on Community-based Data Synthesis, Analysis "
+"and Modeling of Highly Pathogenic Avian Influenza H5N1 in Asia "
+msgstr ""
+"El cuarto Taller Internacional sobre los Datos Síntesis basada en la "
+"comunidad, Análisis y Modelado de influenza aviar altamente patógena H5N1 en"
+" Asia"
+
+#: dbgettext_files/dbgettext/workshops/workshop/Workshop_3/description.py:2
+msgid ""
+"The 3rd international workshop on “community-based data synthesis, analysis "
+"and modeling of Highly Pathogenic Avian Influenza (HPAI, H5N1 subtype) in "
+"Asia” will be held on November 14-15, 2011, Beijing, China. This 3rd "
+"workshop is a follow-up of the 2nd workshop (Beijing, China, May 31 – June "
+"4, 2010) and the 1st workshop (Bangkok, Thailand, June 15-17, 2009). The "
+"overall objectives of this workshop series are twofold: (1) to identify and "
+"assemble available geospatial datasets relevant to HPAI (H5N1), and identify"
+" major gaps in data and models, which would assist prioritization of future "
+"research in data collection and models; and (2) to facilitate capacity "
+"building for a network of researchers and institutions, and infrastructure "
+"for data synthesis, analysis and modeling. "
+msgstr ""
+"La tercera taller internacional sobre \"la síntesis de datos basado en la "
+"comunidad, el análisis y la modelización de influenza aviar altamente "
+"patógena (IAAP, subtipo H5N1) en Asia\" se celebrará el 14 hasta 15 "
+"noviembre 2011, Beijing, China. Esta tercera taller es un seguimiento del "
+"segundo taller (Beijing, China, mayo 31 a junio 4, 2010) y la primera taller"
+" (Bangkok, Tailandia, 15-17 de junio de 2009). Los objetivos generales de "
+"esta serie de talleres son de dos tipos: (1) para identificar y ensamblar "
+"conjuntos de datos geoespaciales disponibles pertinentes para la IAAP "
+"(H5N1), e identificar las principales lagunas en los datos y modelos, que "
+"ayudarían a la priorización de la investigación futura en la recolección y "
+"modelos de datos; y (2) para facilitar la creación de capacidad para una red"
+" de investigadores e instituciones y la infraestructura para la síntesis de "
+"datos, análisis y modelado."
+
+#: dbgettext_files/dbgettext/workshops/workshop/Workshop_3/name.py:2
+msgid ""
+"The 3rd International Workshop on Community-based Data Synthesis, Analysis "
+"and Modeling of Highly Pathogenic Avian Influenza H5N1 in Asia"
+msgstr ""
+"El tercer Taller Internacional sobre los Datos Síntesis basada en la "
+"comunidad, Análisis y Modelado de influenza aviar altamente patógena H5N1 en"
+" Asia"
+
+#: dbgettext_files/dbgettext/workshops/workshop/Workshop_4/description.py:2
+msgid ""
+"The objectives of the planned two workshops are twofold: (1) identify and "
+"assemble available geospatial datasets relevant to HPAI (H5N1) spread, and "
+"identify any major gaps in knowledge and data, which would inform and allow "
+"prioritization of future research and data collection activities; (2) "
+"facilitate capacity building for a network of researchers and institutions, "
+"and infrastructure for data synthesis, analysis and modeling."
+msgstr ""
+"Los objetivos de los dos talleres previstos son dos: (1) identificar y "
+"reunir conjuntos de datos geoespaciales disponibles pertinentes para la IAAP"
+" (H5N1) propagación, e identificar las lagunas importantes en los "
+"conocimientos y datos, lo que informar y permitir la priorización de futuras"
+" actividades de recopilación de datos de investigación y ; (2) facilitar la "
+"creación de capacidad para una red de investigadores e instituciones y la "
+"infraestructura para la síntesis de datos, análisis y modelado."
+
+#: dbgettext_files/dbgettext/workshops/workshop/Workshop_4/name.py:2
+msgid ""
+"The 2nd International Workshop on Community-based Data Synthesis, Analysis "
+"and Modeling of Highly Pathogenic Avian Influenza H5N1 in Asia"
+msgstr ""
+"El segundo Taller Internacional sobre los Datos Síntesis basada en la "
+"comunidad, Análisis y Modelado de influenza aviar altamente patógena H5N1 en"
+" Asia"
+
+#: dbgettext_files/dbgettext/workshops/workshop/Workshop_6/description.py:2
+msgid ""
+"Remote sensing technology at various platforms (in-situ, airborne and "
+"satellite) has made substantial progress over the past few decades and has "
+"been playing an increasing important role in observation and monitoring of "
+"the Planet Earth. This one-day workshop aims to provide a platform for "
+"researchers and users in Oklahoma to communicate their research and "
+"application activities, discuss collaboration, and develop networks among "
+"researchers, users and students as well as institutions. Participants are "
+"also welcome to participate in the Geospatial Information Science Day "
+"(GISday) at the University of Oklahoma on November 13, 2014 "
+"(http://www.eomf.ou.edu/gisday/). Institutions are encouraged to register a "
+"booth at the GISday Expo event and showcase their research activities and/or"
+" needs in the area of remote sensing technology and applications."
+msgstr ""
+"La tecnología de detección a distancia en diversas plataformas (in situ, en "
+"el aire y por satélite) ha avanzado sustancialmente en las últimas décadas y"
+" ha estado jugando un papel cada vez más importante en la observación y el "
+"seguimiento del Planeta Tierra. Este taller de un día tiene como objetivo "
+"proporcionar una plataforma para los investigadores y usuarios en Oklahoma "
+"para comunicar sus actividades de investigación y de aplicación, discutir la"
+" colaboración y el desarrollo de redes entre investigadores, usuarios y "
+"estudiantes, así como las instituciones. Asimismo, los participantes están "
+"invitados a participar en el Día de la Ciencia de Información Geoespacial "
+"(GISday) en la Universidad de Oklahoma el 13 de noviembre 2014 "
+"(http://www.eomf.ou.edu/gisday/). Se anima a las Instituciones a registrar "
+"un stand en el evento Expo GISday y mostrar sus actividades y / o "
+"necesidades de investigación en el área de la tecnología de la teledetección"
+" y aplicaciones."
+
+#: dbgettext_files/dbgettext/workshops/workshop/Workshop_6/name.py:2
+msgid "2014 Oklahoma Workshop on Remote Sensing Technology and Application"
+msgstr ""
+"Taller sobre Tecnología de Sensores Remotos y Aplicación en Oklahoma 2014"
+
+#: dbgettext_files/dbgettext/workshops/workshopclass/WorkshopClass_1/name.py:2
+msgid "Remote sensing"
+msgstr "Teledetección"
+
+#: dbgettext_files/dbgettext/workshops/workshopclass/WorkshopClass_2/name.py:2
+msgid "Disease ecology"
+msgstr "Ecología de las enfermedades"
+
+#: dbgettext_files/dbgettext/workshops/workshopclass/WorkshopClass_3/name.py:2
+msgid "Carbon cycle"
+msgstr "Ciclo del carbono"
+
+#: dbgettext_files/dbgettext/workshops/workshopclass/WorkshopClass_4/name.py:2
+msgid "Climate change"
+msgstr "Cambio climático"
+
+#: geohealth/templates/geohealth/base.html:7
+#: geohealth/templates/geohealth/gemap.html:7
+msgid "This 3D global view shows three diffrent datasets:"
+msgstr "Esta visión global 3D muestra tres conjuntos de datos diferentes"
+
+#: geohealth/templates/geohealth/base.html:9
+#: geohealth/templates/geohealth/gemap.html:9
+msgid "Ecohealth Paper Data"
+msgstr "Datos de publicación de ecoSalud"
+
+#: geohealth/templates/geohealth/base.html:10
+#: geohealth/templates/geohealth/gemap.html:10
+msgid ""
+"Avian Influenza H5N1 is represented using Geese, Chicken, Human icons "
+"respectively for Wild birds, Domesticated birds and Human cases."
+msgstr ""
+"La gripe aviar H5N1 se representa usando gansos, pollo, iconos Humanos, "
+"respectivamente, para las aves silvestres, aves domésticas y los casos "
+"humanos."
+
+#: geohealth/templates/geohealth/base.html:17
+#: geohealth/templates/geohealth/gemap.html:15
+msgid "Data Disclaimer"
+msgstr "Exención de responsabilidad de datos"
+
+#: geohealth/templates/geohealth/base.html:19
+msgid ""
+"Wild bird migration data are provided by FAO and USGS, <a "
+"href='http://www.werc.usgs.gov/ResearchTopicPage.aspx?id=12'>http://www.werc.usgs.gov/ResearchTopicPage.aspx?id=12"
+msgstr ""
+"Datos de migración de aves salvajes son proporcionados por la FAO y la USGS,"
+" <a "
+"href='http://www.werc.usgs.gov/ResearchTopicPage.aspx?id=12'>http://www.werc.usgs.gov/ResearchTopicPage.aspx?id=12"
+
+#: geohealth/templates/geohealth/base.html:20
+msgid ""
+"HPAI H5N1 disease outbreak data are provided by the FAO, <a "
+"href='http://www.fao.org/ag/againfo/programmes/en/empres/home.asp'> "
+"http://www.fao.org/ag/againfo/programmes/en/empres/home.asp"
+msgstr ""
+"IAAP H5N1 datos de brotes de la enfermedad son proporcionados por la FAO, <a"
+" href='http://www.fao.org/ag/againfo/programmes/en/empres/home.asp'> "
+"http://www.fao.org /ag/againfo/programmes/en/empres/home.asp"
+
+#: geohealth/templates/geohealth/earth-tree.html:3
+msgid "Data Integration and Visualization over Google Earth"
+msgstr "Integración de Datos y Visualización sobre Google Earth"
+
+#: geohealth/templates/geohealth/earth-tree.html:37
+msgid "Data Tree"
+msgstr "Árbol de datos"
+
+#: geohealth/templates/geohealth/earth-tree.html:53
+#: workshops/templates/workshops/workshop_extra_menu.html:6
+msgid "Description"
+msgstr "Descripción"
+
+#: geohealth/templates/geohealth/earth-tree.html:60
+msgid "Legend"
+msgstr "Leyenda"
+
+#: geohealth/templates/geohealth/earth-tree.html:70
+msgid "Opacity"
+msgstr "Opacidad"
+
+#: geohealth/templates/geohealth/gemap.html:3
+#: geohealth/templates/geohealth/leftmenu.html:2 templates/mainmenu.html:106
+msgid "GeoHealth"
+msgstr "GeoHealth"
+
+#: geohealth/templates/geohealth/gemap.html:17
+msgid "Wild bird migration data are provided by FAO and USGS"
+msgstr ""
+"Datos de migración de aves salvajes son proporcionados por la FAO y la USGS"
+
+#: geohealth/templates/geohealth/gemap.html:18
+msgid "HPAI H5N1 disease outbreak data are provided by the FAO"
+msgstr ""
+"IAAP H5N1 datos de brotes de la enfermedad son proporcionados por la FAO"
+
+#: inventory/templates/inventory/leftmenu.html:2 templates/mainmenu.html:99
+msgid "Datasets"
+msgstr "Inventario"
+
+#: inventory/templates/inventory/leftmenu.html:3
+msgid "Remote Sensing Datasets"
+msgstr "Inventario de datos"
+
+#: inventory/templates/inventory/map.html:4
+msgid "EOMF Map availability for "
+msgstr "EOMF Mapa accesibilidad para"
+
+#: inventory/templates/inventory/map.html:44
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: inventory/templates/inventory/map.html:45
+msgid "Vertical"
+msgstr "Vertical"
+
+#: inventory/templates/inventory/map.html:46
+msgid "Lon min"
+msgstr "Lon min"
+
+#: inventory/templates/inventory/map.html:47
+msgid "Lon max"
+msgstr "Lon max"
+
+#: inventory/templates/inventory/map.html:48
+msgid "Lat min"
+msgstr "Lat min"
+
+#: inventory/templates/inventory/map.html:49
+msgid "Lat max"
+msgstr "Max Lat"
+
+#: inventory/templates/inventory/map.html:107
+#: visualization/templates/visualization/gmap.html:502
+msgid "Dataset"
+msgstr "Inventario"
+
+#: inventory/templates/inventory/map.html:126
+msgid "MODIS Global Datasets"
+msgstr "Inventario Global MODIS"
+
+#: inventory/templates/inventory/map.html:126
+msgid "(via Sinusoidal Grid)"
+msgstr "(Vía malla sinusoidal )"
+
+#: inventory/templates/inventory/map.html:148
+msgid "Viewing"
+msgstr "Viendo"
+
+#: inventory/templates/inventory/map.html:153
+#: inventory/templates/inventory/tile.html:57
+#: visualization/templates/visualization/composite.html:167
+#: visualization/templates/visualization/gmap.html:519
+msgid "Year"
+msgstr "Año"
+
+#: inventory/templates/inventory/map.html:162
+msgid "Tiles are 10 degrees by 10 degrees at the equator."
+msgstr "Las celdas son 10 grados por 10 grados en el ecuador."
+
+#: inventory/templates/inventory/map.html:164
+msgid ""
+"The tile coordinate system starts at (0,0) (horizontal tile number,vertical "
+"tile number) in the upper left corner and proceeds right (horizontal) and "
+"downward (vertical). The tile in the bottom right corner is (35,17)."
+msgstr ""
+"El sistema de coordenadas de celdas empieza en (0,0) (número de celdas "
+"horizontal, número de celda vertical) en la esquina superior izquierda y "
+"procede a la derecha (horizontal) y hacia abajo (vertical). La celda en la "
+"esquina inferior derecha es (35,17)."
+
+#: inventory/templates/inventory/remote_sensing_datasets.html:4
+msgid "EOMF Data Inventory"
+msgstr "Inventario de datos de EOMF"
+
+#: inventory/templates/inventory/remote_sensing_datasets.html:68
+msgid "Remote Sensing datasets"
+msgstr "Inventario de datos de teledetección"
+
+#: inventory/templates/inventory/remote_sensing_datasets.html:74
+msgid "Datasets from MODIS"
+msgstr "Inventario de datos de MODIS"
+
+#: inventory/templates/inventory/remote_sensing_datasets.html:87
+msgid "Products from MODIS (MOD09A1)"
+msgstr "Productos de MODIS (MOD09A1)"
+
+#: inventory/templates/inventory/remote_sensing_datasets.html:101
+msgid "No datasets are available."
+msgstr "No hay datos disponibles."
+
+#: inventory/templates/inventory/tile.html:4
+msgid "EOMF Data Inventory for Tile"
+msgstr "EOMF Inventario de datos para celda"
+
+#: inventory/templates/inventory/tile.html:40
+msgid "Data Inventory for Tile"
+msgstr "Inventario de datos para celda"
+
+#: inventory/templates/inventory/tile.html:44
+msgid "Tile Code"
+msgstr "Código de celda"
+
+#: inventory/templates/inventory/tile.html:56
+#: visualization/templates/visualization/multiple.html:26
+msgid "Product"
+msgstr "Producto"
+
+#: inventory/templates/inventory/tile.html:58
+msgid "Days"
+msgstr "Días"
+
+#: inventory/templates/inventory/tile.html:59
+msgid "Missing"
+msgstr "Falta"
+
+#: inventory/templates/inventory/tile.html:60
+msgid "Total"
+msgstr "Total"
+
+#: inventory/templates/inventory/tile.html:79
+msgid "Files Total"
+msgstr "Total Archivos"
+
+#: inventory/templates/inventory/tile.html:84
+msgid "Inventory as of"
+msgstr "Inventario a"
+
+#: inventory/templates/inventory/tile.html:86
+msgid "Close this window"
+msgstr "Cerrar esta ventana"
+
+#: pages/admin.py:13
+msgid ""
+"Example: '/about/contact/'. Make sure to have leading and trailing slashes."
+msgstr ""
+"Ejemplo: '/about/contact/'. Asegúrese de tener delantero y trasero barras."
+
+#: pages/admin.py:15
+msgid ""
+"This value must contain only letters, numbers, underscores, dashes or "
+"slashes."
+msgstr ""
+"Este valor debe contener sólo letras, números, guiones, guiones o barras."
+
+#: pages/admin.py:25
+msgid "Advanced options"
+msgstr "Opciones avanzadas"
+
+#: pages/models.py:8
+#: workshops/templates/workshops/workshop_presentations.html:23
+msgid "title"
+msgstr "título"
+
+#: pages/models.py:9
+msgid "content"
+msgstr "contenido"
+
+#: pages/models.py:10
+msgid "enable comments"
+msgstr "permitir comentarios"
+
+#: pages/models.py:11
+msgid "template name"
+msgstr "nombre de la plantilla"
+
+#: pages/models.py:12
+msgid ""
+"Example: 'flatpages/contact_page.html'. If this isn't provided, the system "
+"will use 'flatpages/default.html'."
+msgstr ""
+"Ejemplo: 'flatpages / contact_page.html'. Si no se proporciona, el sistema "
+"utilizará 'flatpages / default.html'."
+
+#: pages/models.py:13
+msgid "registration required"
+msgstr "es necesario registrarse"
+
+#: pages/models.py:13
+msgid ""
+"If this is checked, only logged-in users will be able to view the page."
+msgstr ""
+"Si se marca esta opción, sólamente usuarios registrados podrán ver la "
+"página."
+
+#: pages/models.py:18
+msgid "content page"
+msgstr "página de contenido"
+
+#: pages/models.py:19
+msgid "content pages"
+msgstr "páginas de contenido"
+
+#: photos/forms.py:59 photos/forms.py:78 photos/forms.py:88
+msgid "All"
+msgstr "Todos"
+
+#: photos/models.py:29
+msgid "Continent"
+msgstr "Continente"
+
+#: photos/models.py:30
+msgid "Continents"
+msgstr "Continentes"
+
+#: photos/models.py:42 photos/templates/photos/edit.html:105
+#: photos/templates/photos/viewDetails.html:94
+msgid "Category"
+msgstr "Categoría"
+
+#: photos/models.py:43 photos/templates/photos/search_form.html:37
+#: workshops/templates/workshops/categories_legend.html:3
+msgid "Categories"
+msgstr "Categorías"
+
+#: photos/models.py:71 photos/models.py:102
+#: photos/templates/photos/search_form.html:46
+msgid "Countries"
+msgstr "Países"
+
+#: photos/models.py:85
+msgid "Region"
+msgstr "Región"
+
+#: photos/models.py:86
+msgid "Regions"
+msgstr "Regiones"
+
+#: photos/models.py:110
+msgid "Researches"
+msgstr "Investigaciones"
+
+#: photos/models.py:136
+msgid "Photo User"
+msgstr "Foto del Usuario"
+
+#: photos/models.py:137
+msgid "Photo Users"
+msgstr "Usuarios de fotos"
+
+#: photos/models.py:144
+msgid "Theme"
+msgstr "Tema"
+
+#: photos/models.py:149
+msgid "Deleted"
+msgstr "Suprimido"
+
+#: photos/models.py:150
+msgid "Public"
+msgstr "Público"
+
+#: photos/models.py:151
+msgid "Private"
+msgstr "Privado"
+
+#: photos/models.py:155
+msgid "North"
+msgstr "Norte"
+
+#: photos/models.py:156
+msgid "NNE"
+msgstr "NNE"
+
+#: photos/models.py:157
+msgid "NE"
+msgstr "NE"
+
+#: photos/models.py:158
+msgid "ENE"
+msgstr "ENE"
+
+#: photos/models.py:159
+msgid "East"
+msgstr "Este"
+
+#: photos/models.py:160
+msgid "ESE"
+msgstr "ESE"
+
+#: photos/models.py:161
+msgid "SE"
+msgstr "SE"
+
+#: photos/models.py:162
+msgid "SSE"
+msgstr "SSE"
+
+#: photos/models.py:163
+msgid "South"
+msgstr "Sur"
+
+#: photos/models.py:164
+msgid "SSW"
+msgstr "SSW"
+
+#: photos/models.py:165
+msgid "SW"
+msgstr "SO"
+
+#: photos/models.py:166
+msgid "WSW"
+msgstr "WSW"
+
+#: photos/models.py:167
+msgid "West"
+msgstr "Oeste"
+
+#: photos/models.py:168
+msgid "WNW"
+msgstr "WNW"
+
+#: photos/models.py:169
+msgid "NW"
+msgstr "NW"
+
+#: photos/models.py:170
+msgid "NNW"
+msgstr "NNW"
+
+#: photos/models.py:410 photos/templates/photos/edit.html:55
+#: photos/templates/photos/viewDetails.html:57 templates/mainmenu.html:98
+msgid "Photo"
+msgstr "Foto"
+
+#: photos/models.py:411
+msgid "Photos"
+msgstr "Fotos"
+
+#: photos/templates/photos/browse.html:32 photos/templates/photos/map.html:64
+#: photos/templates/photos/overview.html:33
+msgid "Global Geo-Referenced Field Photo Library"
+msgstr "Libreria Global Georeferenciada Field Photo"
+
+#: photos/templates/photos/browse.html:35
+msgid "Total photos"
+msgstr "Total photos"
+
+#: photos/templates/photos/browse.html:61
+msgid "Photos per page"
+msgstr "Fotos por página"
+
+#: photos/templates/photos/browse.html:92 photos/templates/photos/user.html:75
+msgid "CSV file and images."
+msgstr "Archivo e imágenes CSV."
+
+#: photos/templates/photos/browse.html:93 photos/templates/photos/user.html:76
+msgid "KMZ: KML and images."
+msgstr "KMZ: KML e imágenes."
+
+#: photos/templates/photos/browse.html:98
+#: photos/templates/photos/browse_gallery_map.html:70
+#: photos/templates/photos/user.html:81
+msgid "Original images."
+msgstr "Las imágenes originales."
+
+#: photos/templates/photos/browse.html:99
+#: photos/templates/photos/browse_gallery_map.html:71
+#: photos/templates/photos/user.html:82
+msgid "Downsized images."
+msgstr "Imágenes reducido."
+
+#: photos/templates/photos/browse.html:102
+#: photos/templates/photos/browse_gallery_map.html:74
+#: photos/templates/photos/upload.html:112
+#: photos/templates/photos/user.html:85
+msgid "Download"
+msgstr "Descargar"
+
+#: photos/templates/photos/browse_gallery_map.html:6
+#: photos/templates/photos/user.html:15
+msgid "photos"
+msgstr "fotos"
+
+#: photos/templates/photos/browse_gallery_map.html:33
+#: photos/templates/photos/user.html:42
+msgid "Per page"
+msgstr "Por página"
+
+#: photos/templates/photos/browse_gallery_map.html:57
+#: photos/templates/photos/user.html:69
+msgid "Select All"
+msgstr "Seleccionar Todo"
+
+#: photos/templates/photos/browse_gallery_map.html:77
+msgid "Click Here to Batch Edit Selected Photos"
+msgstr "Haga clic aquí para Editar las fotos seleccionadas"
+
+#: photos/templates/photos/browse_gallery_map.html:83
+msgid "batchedit"
+msgstr "Editar selección"
+
+#: photos/templates/photos/edit.html:49
+#: photos/templates/photos/viewDetails.html:52
+msgid "Edit Photo"
+msgstr "Editar Foto"
+
+#: photos/templates/photos/edit.html:69
+#: photos/templates/photos/viewDetails.html:65
+msgid "Location"
+msgstr "Ubicación"
+
+#: photos/templates/photos/edit.html:72
+msgid "In Latitude and Longitude"
+msgstr "En Latitud y Longitud"
+
+#: photos/templates/photos/edit.html:74
+#: photos/templates/photos/search_form.html:17
+#: photos/templates/photos/viewDetails.html:69
+#: visualization/templates/visualization/gmap.html:467
+msgid "Latitude"
+msgstr "Latitud"
+
+#: photos/templates/photos/edit.html:75 photos/templates/photos/edit.html:80
+msgid "Decimal degrees"
+msgstr "Grados decimales"
+
+#: photos/templates/photos/edit.html:79
+#: photos/templates/photos/search_form.html:10
+#: photos/templates/photos/viewDetails.html:73
+#: visualization/templates/visualization/gmap.html:469
+msgid "Longitude"
+msgstr "Longitud"
+
+#: photos/templates/photos/edit.html:85
+#: photos/templates/photos/viewDetails.html:78
+msgid "Altitude"
+msgstr "Altitud"
+
+#: photos/templates/photos/edit.html:86
+msgid "Meters"
+msgstr "Metros"
+
+#: photos/templates/photos/edit.html:90
+#: photos/templates/photos/viewDetails.html:82
+msgid "Taken Date"
+msgstr "Fecha Tomada"
+
+#: photos/templates/photos/edit.html:95
+#: photos/templates/photos/viewDetails.html:86
+msgid "Direction"
+msgstr "Dirección"
+
+#: photos/templates/photos/edit.html:96
+msgid "Cardinal direction"
+msgstr "Dirección Cardinal"
+
+#: photos/templates/photos/edit.html:100
+#: photos/templates/photos/viewDetails.html:90
+msgid "Status"
+msgstr "Estado"
+
+#: photos/templates/photos/edit.html:110 photos/templates/photos/view.html:26
+#: photos/templates/photos/viewDetails.html:98
+msgid "Field Notes"
+msgstr "Notas de campo"
+
+#: photos/templates/photos/edit.html:117
+msgid "Save & go Previous"
+msgstr "Save y Anterior"
+
+#: photos/templates/photos/edit.html:119
+msgid "Save"
+msgstr "Guardar"
+
+#: photos/templates/photos/edit.html:121
+msgid "Save & go next"
+msgstr "Guardar y Siguiente"
+
+#: photos/templates/photos/exif.html:5
+msgid "EOMF EXIF photo"
+msgstr "EOMF EXIF ​​foto"
+
+#: photos/templates/photos/exif.html:8
+msgid "View EXIF"
+msgstr "Ver EXIF"
+
+#: photos/templates/photos/leftmenu.html:2
+msgid "Photos Actions"
+msgstr "Acciones de Fotos"
+
+#: photos/templates/photos/leftmenu.html:7
+msgid "Browse"
+msgstr "Explorar"
+
+#: photos/templates/photos/leftmenu.html:10
+msgid "Map"
+msgstr "Mapa"
+
+#: photos/templates/photos/leftmenu.html:17
+msgid "My Photos"
+msgstr "Mis Fotos"
+
+#: photos/templates/photos/leftmenu.html:20
+#: photos/templates/photos/upload.html:40
+msgid "Upload"
+msgstr "Subir"
+
+#: photos/templates/photos/leftmenu.html:24
+msgid "Working Photos"
+msgstr "Fotos por validar"
+
+#: photos/templates/photos/map.html:4
+msgid "EOMF Field Photo Map"
+msgstr "EOMF Mapa de Fotos de Campo"
+
+#: photos/templates/photos/map.html:66
+msgid "Loading photos..."
+msgstr "Cargando fotos ..."
+
+#: photos/templates/photos/overview.html:4
+msgid "EOMF Field Photo overview"
+msgstr "EOMF Resumen Fotos de Campo"
+
+#: photos/templates/photos/overview.html:36
+msgid ""
+"A picture is worth a thousand words, and a geo-referenced (geo-tagged) field"
+" photo is even better. Everyday, researchers, students and citizens use GPS "
+"cameras and smartphones to take photos in the fields, as part of their "
+"efforts to document their observations of landscapes, agriculture, forests, "
+"natural disasters, and wildlife. This Geo-Referenced Field Photo Library is "
+"a community- and citizen- science data portal for people to share, visualize"
+" and archive geo-referenced photos from the fields in the world. Users can "
+"upload, edit, query and download geo-referenced field photos in the library,"
+" and use the photo-based thematic geospatial datasets for the studies of "
+"land use and land cover change, the impacts of extreme weather events, and "
+"wildlife conservation, etc. Users who provide photos can decide whether "
+"individual photos are to be shared or not. A registered user can upload "
+"photos into the library and has access to more field photos in the library "
+"than a guest user."
+msgstr ""
+"Una imagen vale más que mil palabras, y una fotografía de campo (geo-"
+"etiquetadas) georreferenciada es aún mejor. Todos los días, investigadores, "
+"estudiantes y ciudadanos utilizan cámaras GPS y teléfonos móbiles para tomar"
+" fotos en el campo, como parte de sus esfuerzos para documentar sus "
+"observaciones de paisajes, la agricultura, los bosques, los desastres "
+"naturales y la vida silvestre. La Librería Geo Referenciada es un portal de "
+"datos de la comunidad científica y los ciudadanos para que las personas "
+"compartan, visualicen y almacenen fotos georreferenciadas de sus viajes y "
+"trabajos a nivel mundial. Los usuarios pueden cargar, editar, consultar y "
+"descargar fotos de campo georreferenciadas y usar el inventario de datos "
+"geo'espaciales usando la localización de la fotografía, para los estudios de"
+" uso de la tierra y el cambio de cobertura terrestre, los impactos de los "
+"eventos climáticos extremos, y la conservación de la vida silvestre, etc. . "
+"Los usuarios que faciliten las fotos pueden decidir si las fotos "
+"individuales son para ser compartidas o no. Un usuario registrado podrá "
+"subir fotos a la biblioteca y tendrá acceso a más fotos de campo en la "
+"biblioteca que un usuario invitado."
+
+#: photos/templates/photos/overview.html:38
+msgid "Share your field photos"
+msgstr "Comparte tus fotos de campo"
+
+#: photos/templates/photos/overview.html:39
+msgid "Show your footprint of travel, and"
+msgstr "Muestre la huella de sus viajes, y"
+
+#: photos/templates/photos/overview.html:40
+msgid "Support monitoring of our Planet Earth!"
+msgstr "ayude a monitorizar nuestro Planeta Tierra!"
+
+#: photos/templates/photos/overview.html:43
+msgid ""
+"Please read this article 'A Library of Georeferenced Photos From the Field'"
+msgstr ""
+"Por favor, lea este artículo 'A Library of Georeferenced Photos From the "
+"Field'"
+
+#: photos/templates/photos/overview.html:44
+msgid ""
+"Please invite other people to participate in this community and citizen "
+"science effort and distribute this one-page flyer"
+msgstr ""
+"Por favor invitar a otras personas a participar en este esfuerzo de la "
+"comunidad y la ciencia ciudadana y distribuya este folleto de una página"
+
+#: photos/templates/photos/overview.html:46
+msgid "User's Guide"
+msgstr "Guía del usuario"
+
+#: photos/templates/photos/overview.html:48
+msgid "About your GPS camera and smartphone"
+msgstr "Acerca de la cámara del GPS y el teléfono inteligente"
+
+#: photos/templates/photos/overview.html:49
+msgid "How to use Field Photo Library (upload, edit, query, download)"
+msgstr ""
+"Modo de empleo El campo Photo Library (cargar, editar, consultar, descargar)"
+
+#: photos/templates/photos/overview.html:50
+msgid ""
+"How to take field photos for monitoring land use and land cover changes"
+msgstr ""
+"Cómo tomar fotos de campo para el uso del suelo de monitoreo y los cambios "
+"de la cubierta terrestre"
+
+#: photos/templates/photos/overview.html:51
+msgid ""
+"How to take field photos for monitoring water quality and harmful algae "
+"blooms"
+msgstr ""
+"Cómo tomar fotos de campo para el monitoreo de calidad de agua y la "
+"proliferación de algas nocivas"
+
+#: photos/templates/photos/overview.html:55
+msgid "Smartphone Apps"
+msgstr "Aplicaciones Smartphone"
+
+#: photos/templates/photos/overview.html:59
+msgid "IOS"
+msgstr "IOS"
+
+#: photos/templates/photos/overview.html:64
+msgid ""
+"Iphone app is now available in Apple Store, please <a "
+"href=\"https://itunes.apple.com/us/app/field-"
+"photo/id717945301\">download</a> and install it. It is FREE!!"
+msgstr ""
+"IPhone App ya está disponible en la Apple Store, <a descarga "
+"href=\"https://itunes.apple.com/us/app/field-photo/id717945301\"> </a> e "
+"instalarlo. Es gratis !!"
+
+#: photos/templates/photos/overview.html:69
+msgid "Android:"
+msgstr "Android:"
+
+#: photos/templates/photos/overview.html:71
+msgid ""
+"Android app is now available in Google Play Store, please <a "
+"href=\"https://play.google.com/store/apps/details?id=com.eomf\">download</a>"
+" and install it. It is FREE!!"
+msgstr ""
+"La aplicación para Android ya está disponible en Google Play Store, por "
+"favor <a href=\"https://play.google.com/store/apps/details?id=com.eomf\"> "
+"descargar </a> e instalarlo. Es gratis !!"
+
+#: photos/templates/photos/overview.html:79
+msgid "Field Photos Projects"
+msgstr "Proyectos de Field Photo"
+
+#: photos/templates/photos/overview.html:81
+msgid "Field Photo Weekends"
+msgstr "Los fines de semana Field Photo"
+
+#: photos/templates/photos/overview.html:82
+msgid ""
+"This is a citizen science effort through collaboration among the <a "
+"href=\"http://www.cocorahs.org/Content.aspx?page=mod&mod=1\">CoCoRaHS</a>, "
+"<a href='http://www.southernclimate.org/fieldphotos/'>SCIPP</a> and <a "
+"href='eomf.ou.edu'>EOMF</a>.  For additional information, please visit <a "
+"href=\"http://www.cocorahs.org/Content.aspx?page=mod&mod=1\">CoCoRaHS</a> "
+"and <a href='http://www.southernclimate.org/fieldphotos/'>SCIPP</a> "
+"websites.It was first launched for the Labor Day Weekend in 2012."
+msgstr ""
+"Este es un esfuerzo de la ciencia ciudadana a través de la colaboración "
+"entre la <a "
+"href=\"http://www.cocorahs.org/Content.aspx?page=mod&amp;mod=1\"> CoCoRaHS "
+"</a>, <a href = 'http : //www.southernclimate.org/fieldphotos/> SCIPP </a> y"
+" <a href='eomf.ou.edu'> EOMF </a>. Para obtener información adicional, por "
+"favor visite <a "
+"href=\"http://www.cocorahs.org/Content.aspx?page=mod&amp;mod=1\"> CoCoRaHS "
+"</a> y <a href = 'http: // www .southernclimate.org / fieldphotos /> "
+"websites.It SCIPP </a> fue lanzado por primera vez para el fin de semana del"
+" Día del Trabajo en 2012."
+
+#: photos/templates/photos/overview.html:91
+msgid "Acknowledgements"
+msgstr "Agradecimientos"
+
+#: photos/templates/photos/overview.html:93
+msgid ""
+"The Geo-Referenced Field photos in this Field Photo library come from many "
+"people and projects. Their contributions make this library possible and grow"
+" over time. Thanks."
+msgstr ""
+"Las fotografías de campo Geo'referenciadas  de esta biblioteca provienen de "
+"muchas personas y proyectos. Sus contribuciones hacen posible esta "
+"biblioteca y crecen con el tiempo. Gracias."
+
+#: photos/templates/photos/photo_tile.html:15
+msgid "Image file missing"
+msgstr "Archivo de imagen no encontrado"
+
+#: photos/templates/photos/photo_tile.html:18
+#: photos/templates/photos/photo_tile_for_userPhotos.html:12
+#: photos/templates/photos/photo_tile_reduced.html:15
+msgid "Image not available"
+msgstr "Imagen no disponible"
+
+#: photos/templates/photos/photo_tile.html:38
+#: photos/templates/photos/photo_tile_for_userPhotos.html:32
+#: photos/templates/photos/photo_tile_reduced.html:30
+msgid "Category not set"
+msgstr "Categoría no establecida"
+
+#: photos/templates/photos/photo_tile.html:42
+#: photos/templates/photos/photo_tile_for_userPhotos.html:36
+#: photos/templates/photos/view.html:46
+msgid "Edit"
+msgstr "Editar"
+
+#: photos/templates/photos/photo_tile.html:43
+#: photos/templates/photos/photo_tile_for_userPhotos.html:37
+#: photos/templates/photos/upload.html:66 photos/templates/photos/view.html:47
+msgid "Delete"
+msgstr "Borrar"
+
+#: photos/templates/photos/photo_tile.html:47
+msgid ""
+"View MODIS data for this photo. Click on this button and scroll down to the "
+"bottom of the page and to select appropriate dataset and year"
+msgstr ""
+"Ver datos MODIS para esta foto. Haga clic en este botón y desplácese hacia "
+"abajo hasta la parte inferior de la página y seleccionar el conjunto de "
+"datos y el año apropiado"
+
+#: photos/templates/photos/search_form.html:5
+msgid "Search"
+msgstr "Búsqueda"
+
+#: photos/templates/photos/search_form.html:11
+#: photos/templates/photos/search_form.html:18
+msgid "Min"
+msgstr "Min"
+
+#: photos/templates/photos/search_form.html:14
+#: photos/templates/photos/search_form.html:21
+msgid "Max"
+msgstr "Max"
+
+#: photos/templates/photos/search_form.html:27
+msgid "Date from"
+msgstr "Fecha desde"
+
+#: photos/templates/photos/search_form.html:31
+msgid "Date to"
+msgstr "Fecha hasta"
+
+#: photos/templates/photos/search_form.html:49
+msgid "Geographical"
+msgstr "Geográfico"
+
+#: photos/templates/photos/search_form.html:58
+msgid "Search by keywords "
+msgstr "Búsqueda por palabra clave"
+
+#: photos/templates/photos/upload.html:4
+msgid "EOMF photo upload"
+msgstr "Subir las fotos que EOMF"
+
+#: photos/templates/photos/upload.html:44
+msgid ""
+"You can select multiple files, drag&amp;drop files into the window with "
+"Firefox, Safari, Chrome"
+msgstr ""
+"Puede seleccionar varios archivos, arrastre & amp; amp; soltar archivos en "
+"la ventana con Firefox, Safari, Chrome"
+
+#: photos/templates/photos/upload.html:45
+msgid ""
+"Don't forget to click 'Save Uploaded Images' after uploading all the images"
+msgstr ""
+"No olvides hacer clic en 'Guardar imagenes subidas' después de subir todas "
+"las imágenes"
+
+#: photos/templates/photos/upload.html:53
+msgid "Add files..."
+msgstr "Agregar archivos ..."
+
+#: photos/templates/photos/upload.html:58
+msgid "Start upload"
+msgstr "Iniciar subida"
+
+#: photos/templates/photos/upload.html:62
+msgid "Cancel upload"
+msgstr "Cancelar carga"
+
+#: photos/templates/photos/upload.html:85
+msgid ""
+"The default setting for photos is public, do you want to change it to "
+"private?"
+msgstr ""
+"La configuración predeterminada para las fotos es público, ¿quieres "
+"cambiarlo a privada?"
+
+#: photos/templates/photos/upload.html:91
+msgid "Notes"
+msgstr "Notas"
+
+#: photos/templates/photos/upload.html:93
+msgid "Please upload individual images (<strong>JPEG, PNG, GIF</strong>)"
+msgstr ""
+"Por favor, subir imágenes individuales (<strong> JPEG, PNG, GIF </ strong>)"
+
+#: photos/templates/photos/upload.html:94
+msgid ""
+"Total upload limit is set at 650MB, but it is recommended you do not upload "
+"files bigger than <strong>25MB</strong>."
+msgstr ""
+"Límite total de carga se ha fijado en 650 MB, pero se recomienda no cargar "
+"archivos más grandes que <strong> 25MB </ strong>."
+
+#: photos/templates/photos/upload.html:95
+msgid ""
+"If you are having trouble uploading big files (over 25M) select multiple "
+"smaller files in the file browse window."
+msgstr ""
+"Si usted está teniendo problemas para subir archivos de gran tamaño (más de "
+"25M) seleccionar varios archivos más pequeños en la ventana de archivo de "
+"exploración."
+
+#: photos/templates/photos/upload.html:96
+msgid ""
+"You can <strong>drag &amp; drop</strong> files from your desktop on this "
+"webpage with Google Chrome, Mozilla Firefox and Apple Safari."
+msgstr ""
+"Usted puede <strong>arrastrar y soltar </ strong> los archivos de su "
+"escritorio en esta página web con Google Chrome, Mozilla Firefox y Apple "
+"Safari."
+
+#: photos/templates/photos/upload.html:110
+msgid "Next"
+msgstr "Siguiente"
+
+#: photos/templates/photos/upload.html:111
+msgid "Previous"
+msgstr "Anterior"
+
+#: photos/templates/photos/upload.html:117
+msgid "File is too big"
+msgstr "El archivo es demasiado grande"
+
+#: photos/templates/photos/upload.html:118
+msgid "File is too small"
+msgstr "El archivo es demasiado pequeña"
+
+#: photos/templates/photos/upload.html:119
+msgid "Filetype not allowed"
+msgstr "Filetype no permitidos"
+
+#: photos/templates/photos/upload.html:120
+msgid "Max number of files exceeded"
+msgstr "Número máximo de archivos superó"
+
+#: photos/templates/photos/upload.html:121
+msgid "Uploaded bytes exceed file size"
+msgstr "Bytes cargados exceden el tamaño del archivo"
+
+#: photos/templates/photos/upload.html:122
+msgid "Empty file upload result"
+msgstr "Resultado de carga de archivos vacío"
+
+#: photos/templates/photos/upload.html:145
+msgid "Please Log in to upload photos."
+msgstr "Inicia sesión para subir fotos."
+
+#: photos/templates/photos/user.html:6
+msgid "EOMF user photos"
+msgstr "EOMF fotos de los usuarios"
+
+#: photos/templates/photos/user.html:94
+msgid "Submit Batch Edits"
+msgstr "Presentar ediciones lotes"
+
+#: photos/templates/photos/user.html:103 photos/templates/photos/user.html:107
+msgid "By date of Photo upload"
+msgstr "Por fecha de carga de fotos"
+
+#: photos/templates/photos/user.html:103 photos/templates/photos/user.html:107
+msgid "By date of Photo Taken"
+msgstr "Por fecha de Foto Tomada"
+
+#: photos/templates/photos/user.html:152
+msgid "You don't seem to have any photos yet."
+msgstr "No parecen tener fotos todavía."
+
+#: photos/templates/photos/user.html:153
+msgid "Upload</a> some photos, and they will show up on this page."
+msgstr "Suba </a> algunas fotos, y se mostrarán en esta página."
+
+#: photos/templates/photos/view.html:5
+msgid "EOMF Photo view"
+msgstr "Vista EOMF fotos"
+
+#: photos/templates/photos/view.html:10
+msgid "View Photo"
+msgstr "Ver Foto"
+
+#: photos/templates/photos/view.html:23
+msgid "User"
+msgstr "Usuario"
+
+#: photos/templates/photos/view.html:24
+msgid "Filename"
+msgstr "Nombre Del Archivo"
+
+#: photos/templates/photos/view.html:25
+msgid "Landcover"
+msgstr "Categoría terrestre"
+
+#: photos/templates/photos/view.html:25
+msgid "Not set"
+msgstr "No establecido"
+
+#: photos/templates/photos/view.html:26
+msgid "No notes"
+msgstr "No hay notas"
+
+#: photos/templates/photos/view.html:28
+msgid "Exif"
+msgstr "Exif"
+
+#: photos/templates/photos/view.html:47
+msgid "Are you sure, you want to delete?"
+msgstr "Estas seguro que quieres borrarlo?"
+
+#: photos/templates/photos/viewDetails.html:5
+msgid "EOMF Photo details"
+msgstr "Detalles EOMF fotos"
+
+#: publications/templates/publications/publication_list.html:3
+msgid "EOMF Publications"
+msgstr "EOMF Publicaciones"
+
+#: publications/templates/publications/publication_list.html:22
+msgid "No publications are available."
+msgstr "No hay publicaciones disponibles."
+
+#: publications/templates/publications/section_list.html:46
+msgid "No Journals are available."
+msgstr "No hay revistas están disponibles."
+
+#: publications/templates/publications/section_list.html:47
+msgid "No Books and Book Chapters are available."
+msgstr "No hay libros ni capítulos disponibles."
+
+#: publications/templates/publications/section_list.html:48
+msgid "No Presentations are available"
+msgstr "No hay presentaciones disponibles"
+
+#: settings.py:49
+msgid "English"
+msgstr "Inglés"
+
+#: settings.py:50
+msgid "Chinese"
+msgstr "Chino"
+
+#: settings.py:51
+msgid "Spanish"
+msgstr "Español"
+
+#: settings.py:52
+msgid "Nepali"
+msgstr "Nepalí"
+
+#: settings.py:53
+msgid "French"
+msgstr "Francés"
+
+#: templates/admin/base_site.html:4
+msgid "Django site admin"
+msgstr "Django sitio de administración"
+
+#: templates/admin/base_site.html:7
+msgid "EOMF administration"
+msgstr "Administración EOMF"
+
+#: templates/base.html:7
+msgid "EOMF: Earth Observation and Modeling Facility"
+msgstr "EOMF: Instalación de Observación y Modelado Terrestre"
+
+#: templates/base.html:205
+msgid ""
+"Copyright &copy; 2013 Earth Observation and Modeling Facility, the University of Oklahoma<br>\n"
+"\t\t     101 David L. Boren Blvd, Norman, OK 73019, USA. Phone: (405) 325-8941 <br>\n"
+"\t\t     All rights reserved."
+msgstr ""
+"Derechos Reservados &copy; 2013 Earth Observation and Modeling Facility,  Universidad de Oklahoma <br>\n"
+"101 David L. Boren Blvd, Norman, OK 73019, EE.UU.. Teléfono: (405) 325-8941 <br>\n"
+"Todos los derechos reservados."
+
+#: templates/home.html:7
+msgid " Welcome to the Earth Observation and Modeling Facility "
+msgstr "Bienvenido a la Instalación de Observación y Modelado de la Tierra"
+
+#: templates/home.html:9
+msgid ""
+"The EOMF is a member of both (1)\n"
+"\t\t<a href='http://mpbio.ou.edu/'> Department of Microbiology and Plant Biology, College of Arts and Sciences</a>, and (2)\n"
+"\t\t<a href='http://www.csa.ou.edu/'> Center for Spatial Analysis, College of Atmospheric and Geographic Sciences</a> at the \n"
+"\t\t<a href='http://www.ou.edu/web.html'> University of Oklahoma</a>.\n"
+"\t\tIt is located at the Stephenson Research and Technology Center, Norman, Oklahoma. \n"
+"\t\tThe EOMF focuses on geospatial science, technologies and applications in bio-, geo- and health- sciences, specifically in the areas of agriculture, forestry, ecology, biodiversity, land use and land cover changes, \n"
+"\t\twater quality, climate, infectious diseases and public health. It promotes community remote sensing and citizen science to address the grand challenges in our dynamic and rapidly changing planet Earth and the society.\n"
+"        "
+msgstr ""
+"El grupo EOMF es miembro de ambos: el (1)\n"
+"<a href='http://mpbio.ou.edu/'> Departamento de Microbiología y Biología Vegetal de la Facultad de Artes y Ciencias </a>, y el (2)\n"
+"<a href='http://www.csa.ou.edu/'> Centro de Análisis Espacial de la Facultad de Ciencias de la Atmósfera y Geográfica </a> en el\n"
+"<a href='http://www.ou.edu/web.html'> Universidad de Oklahoma </a>.\n"
+"Se encuentra en el centro de Investigación y Tecnología Stephenson (SRTC) en Norman, Oklahoma.\n"
+"El EOMF se centra en la tecnologías y aplicaciones geoespaciales en las ciencias biológicas, geográficas y de la salud, específicamente en las áreas de la agricultura, la silvicultura, la ecología, la biodiversidad, el uso del suelo y los cambios de la cubierta terrestre,\n"
+"la calidad del agua, el clima, las enfermedades infecciosas y la salud pública. Promueve la teledetección de la comunidad y la ciencia ciudadana para hacer frente a los grandes desafíos de nuestro planeta Tierra y la sociedad, los cuales cambian aceleradamente."
+
+#: templates/home.html:42
+msgid ""
+"Research, education and outreach activities at the EOMF have been generously"
+" supported by a number of funding agencies."
+msgstr ""
+"Las actividades de investigación, educación y compromiso con la comunidad en"
+" el grupo EOMF han sido generosamente apoyadas por una serie de organismos "
+"de financiación."
+
+#: templates/mainmenu.html:100
+#: visualization/templates/visualization/leftmenu.html:2
+msgid "Visualization"
+msgstr "Visualización"
+
+#: templates/mainmenu.html:108 workshops/templates/workshops/overview.html:7
+msgid "Workshops"
+msgstr "Talleres"
+
+#: visualization/templates/visualization/base.html:3
+msgid "Data Visualization"
+msgstr "Visualización de Datos"
+
+#: visualization/templates/visualization/composite.html:4
+msgid "EOMF MODIS Composite Image Visualization"
+msgstr "EOMF Visualización de Imagen compuesta MODIS"
+
+#: visualization/templates/visualization/composite.html:146
+msgid "MODIS TERRA composite map"
+msgstr "MODIS TERRA mapa compuesto"
+
+#: visualization/templates/visualization/composite.html:159
+msgid "50 km"
+msgstr "50 km"
+
+#: visualization/templates/visualization/composite.html:160
+msgid "20 km"
+msgstr "20 km"
+
+#: visualization/templates/visualization/composite.html:161
+msgid "5 km"
+msgstr "5 km"
+
+#: visualization/templates/visualization/composite.html:172
+#: workshops/templates/workshops/registration.html:12
+msgid "Date"
+msgstr "Fecha"
+
+#: visualization/templates/visualization/composite.html:177
+#: visualization/templates/visualization/composite.html:187
+#: visualization/templates/visualization/gmap.html:544
+msgid "Submit"
+msgstr "Enviar"
+
+#: visualization/templates/visualization/composite.html:195
+msgid "Julian calendar Leap years"
+msgstr "Calendario juliano años bisiestos"
+
+#: visualization/templates/visualization/composite.html:199
+msgid "Julian calendar Regular years"
+msgstr "Calendario juliano años Regulares"
+
+#: visualization/templates/visualization/gmap.html:3
+msgid "EOMF MODIS timeseries Single Site"
+msgstr "EOMF MODIS TimeSeries Sitio Individual"
+
+#: visualization/templates/visualization/gmap.html:423
+msgid "Instructions"
+msgstr "Instrucciones"
+
+#: visualization/templates/visualization/gmap.html:425
+msgid ""
+"Here you can retrieve time series MODIS data for a single study site, in "
+"other words, the time series MODIS data from one MODIS pixel that contains "
+"your study site. The data you get are in ASCII text file and Microsoft Excel"
+" *.csv file."
+msgstr ""
+"Aquí usted puede recuperar series temporales de datos MODIS para un solo "
+"sitio de estudio, es decir, las series temporales de datos MODIS de un píxel"
+" MODIS que contiene su sitio de estudio. Los datos que recibe están en "
+"archivo de texto ASCII y archivo de Microsoft Excel * .csv."
+
+#: visualization/templates/visualization/gmap.html:427
+msgid "<strong>Define the location </strong> of your study site"
+msgstr "<Strong> Definir la ubicación </ strong> de su sitio de estudio"
+
+#: visualization/templates/visualization/gmap.html:429
+msgid "Enter an address (e.g., street address, or city, or state)"
+msgstr ""
+"Introduzca una dirección (por ejemplo, dirección de la calle, o ciudad, o "
+"estado)"
+
+#: visualization/templates/visualization/gmap.html:430
+msgid ""
+"Enter latitude and longitude of your study using Degree, Minute and Second "
+"Units"
+msgstr ""
+"Introduzca la latitud y longitud de su estudio utilizando Grado, Minuto y "
+"Segundo Unidades"
+
+#: visualization/templates/visualization/gmap.html:431
+msgid "Enter latitude and longitude of your study using Decimal degree Unit"
+msgstr ""
+"Introduzca la latitud y longitud de su estudio utilizando Unidad grado "
+"Decimal"
+
+#: visualization/templates/visualization/gmap.html:435
+msgid ""
+"Zoom-in the Google map</strong> and then <strong>click on a point</strong> "
+"of interest to adjust the location if required."
+msgstr ""
+"Zoom-en el mapa de Google </ strong> y <strong> haga clic en un punto </ "
+"strong> de interés para ajustar la ubicación si es necesario."
+
+#: visualization/templates/visualization/gmap.html:436
+msgid ""
+"Note: The rectangle in Google Map is the boundary of one MODIS pixel, and "
+"the red dot is the location of your study site within the MODIS pixel."
+msgstr ""
+"Nota: El rectángulo en Google Map es el límite de un píxel MODIS, y el punto"
+" rojo es la ubicación de su lugar de estudio dentro del píxel MODIS."
+
+#: visualization/templates/visualization/gmap.html:440
+msgid "Select product and year(s)"
+msgstr "Seleccione un producto y el año (s)"
+
+#: visualization/templates/visualization/gmap.html:441
+msgid "You may choose one MODIS product over one year or several years."
+msgstr "Usted puede elegir un producto MODIS más de un año o varios años."
+
+#: visualization/templates/visualization/gmap.html:444
+msgid ""
+"<strong> Submit</strong> your request. <small> Note: Upon submitting make "
+"sure you have done all previous steps or an error message will appear "
+"</small>"
+msgstr ""
+"<Strong> Enviar </ strong> de su solicitud. <Small> Nota: Tras la "
+"presentación de asegurarse de que usted ha hecho todos los pasos anteriores "
+"o aparecerá un mensaje de error </ small>"
+
+#: visualization/templates/visualization/gmap.html:449
+msgid "Retrieve time series MODIS data for a single study site"
+msgstr ""
+"Recuperar los datos de series de tiempo MODIS para un solo sitio de estudio"
+
+#: visualization/templates/visualization/gmap.html:451
+msgid "1.Select an address or a Point on the Map"
+msgstr "1.Seleccione una dirección o un punto en el mapa"
+
+#: visualization/templates/visualization/gmap.html:454
+msgid "Enter the address"
+msgstr "Introduzca la dirección"
+
+#: visualization/templates/visualization/gmap.html:456
+#: visualization/templates/visualization/gmap.html:481
+#: visualization/templates/visualization/gmap.html:487
+msgid "Go"
+msgstr "Ir"
+
+#: visualization/templates/visualization/gmap.html:484
+msgid "or enter <strong>Decimal degrees</strong> below:"
+msgstr "o introduzca <strong> Grados decimales </ strong> a continuación:"
+
+#: visualization/templates/visualization/gmap.html:492
+msgid "2. Zoom-in the map and then click on a point of interest"
+msgstr "2. Zoom-en el mapa y luego haga clic en un punto de interés"
+
+#: visualization/templates/visualization/gmap.html:498
+msgid "3. Select a product and year(s)"
+msgstr "3. Seleccione un producto y año (s)"
+
+#: visualization/templates/visualization/gmap.html:542
+msgid "4. Submit your request"
+msgstr "4. Envíe su solicitud"
+
+#: visualization/templates/visualization/gmap.html:545
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: visualization/templates/visualization/leftmenu.html:5
+msgid "MODIS"
+msgstr "MODIS"
+
+#: visualization/templates/visualization/leftmenu.html:6
+msgid "MODIS composite image"
+msgstr "MODIS imagen compuesta"
+
+#: visualization/templates/visualization/leftmenu.html:7
+msgid "MODIS single-site history"
+msgstr "MODIS historia de un solo sitio"
+
+#: visualization/templates/visualization/leftmenu.html:8
+msgid "MODIS single-site time series"
+msgstr "MODIS de un solo sitio de series de tiempo"
+
+#: visualization/templates/visualization/leftmenu.html:9
+msgid "MODIS multiple site time series"
+msgstr "MODIS sitio de múltiples series de tiempo"
+
+#: visualization/templates/visualization/leftmenu.html:10
+msgid "MODIS vegetation index map"
+msgstr "Mapa índice de vegetación MODIS"
+
+#: visualization/templates/visualization/leftmenu.html:11
+msgid "Google Earth browser"
+msgstr "Navegador de Google Earth"
+
+#: visualization/templates/visualization/leftmenu.html:14
+msgid "Wild birds"
+msgstr "Las aves silvestres"
+
+#: visualization/templates/visualization/leftmenu.html:15
+msgid "Wild bird tracking data"
+msgstr "Los datos de seguimiento de aves silvestres"
+
+#: visualization/templates/visualization/leftmenu.html:18
+msgid "Avian Influenza"
+msgstr "Influenza Aviar"
+
+#: visualization/templates/visualization/leftmenu.html:19
+msgid "Avian Influenza tracking data"
+msgstr "Influenza Aviar datos de seguimiento"
+
+#: visualization/templates/visualization/multiple.html:5
+msgid "EOMF MODIS timeseries Multiple Site"
+msgstr "EOMF MODIS TimeSeries Sitio Múltiple"
+
+#: visualization/templates/visualization/multiple.html:9
+msgid "MODIS time series request history for multiple sites"
+msgstr "MODIS tiempo la historia petición serie para múltiples sitios"
+
+#: visualization/templates/visualization/multiple.html:13
+msgid "Warning!"
+msgstr "¡Advertencia!"
+
+#: visualization/templates/visualization/multiple.html:16
+msgid "Add request"
+msgstr "Añadir solicitud"
+
+#: visualization/templates/visualization/multiple.html:23
+msgid "Timestamp"
+msgstr "Marca de tiempo"
+
+#: visualization/templates/visualization/multiple.html:32
+msgid "Input file"
+msgstr "Archivo de entrada"
+
+#: visualization/templates/visualization/multiple.html:35
+msgid "Output file"
+msgstr "Archivo de salida"
+
+#: visualization/templates/visualization/multiple.html:38
+msgid "Additional sender"
+msgstr "Emisor adicional"
+
+#: visualization/templates/visualization/overview.html:4
+msgid "EOMF Visualization overview"
+msgstr "Resumen Visualización EOMF"
+
+#: visualization/templates/visualization/overview.html:10
+msgid "MODIS data"
+msgstr "Datos MODIS"
+
+#: visualization/templates/visualization/overview.html:11
+msgid ""
+"The EOMF Data Center hosts several hundreds of terabytes of MODIS data and "
+"products for the globe over the period of 2/2000 to present. Here you can "
+"visualize and download those MODIS data in several ways. Our web service is "
+"complementary to the web service provided by the USGS EDC "
+"(http://www.usgs.gov/), where you can download large volume of MODIS data by"
+" tile and year."
+msgstr ""
+"El Centro de Datos EOMF alberga varios cientos de terabytes de datos MODIS y"
+" productos para el mundo en el período de 2/2000 hasta el presente. Aquí "
+"podrá visualizar y descargar los datos MODIS de varias maneras. Nuestro "
+"servicio web es complementario al servicio web proporcionado por el USGS EDC"
+" (http://www.usgs.gov/), donde se puede descargar gran volumen de datos "
+"MODIS de baldosas y año."
+
+#: visualization/templates/visualization/overview.html:14
+msgid "Wild bird data"
+msgstr "Datos de aves silvestres"
+
+#: visualization/templates/visualization/overview.html:15
+msgid ""
+"Satellite telemetry of wild birds provides useful information on local "
+"movement and seasonal migration of migratory wild birds. Here you can "
+"visualize wild bird movement data from satellite telemetry."
+msgstr ""
+"Telemetría por satélite de las aves silvestres proporciona información útil "
+"sobre el movimiento local y la migración estacional de aves silvestres "
+"migratorias. Aquí puede visualizar los datos de movimiento de aves "
+"silvestres de la telemetría por satélite."
+
+#: visualization/templates/visualization/overview.html:18
+msgid "Avian influenza data"
+msgstr "Datos de la gripe aviar"
+
+#: visualization/templates/visualization/overview.html:19
+msgid ""
+"Transmission and spillover of avian influenza, specifically highly "
+"pathogenic avian influenza (e.g., influenza A subtype H5N1, H7N9) is a major"
+" concern of public health. Here you can visualize spatial patterns and "
+"temporal dynamics of HPAI H5N1outbreaks in the world."
+msgstr ""
+"Transmisión y contagio de la gripe aviar, la gripe aviar altamente patógena "
+"en concreto (por ejemplo, la influenza A subtipo H5N1, H7N9) es una de las "
+"principales preocupaciones de la salud pública. Aquí puede visualizar "
+"patrones espaciales y dinámica temporal de la IAAP H5N1outbreaks en el "
+"mundo."
+
+#: workshops/templates/workshops/leftmenu.html:2
+msgid "Workshop"
+msgstr "Taller"
+
+#: workshops/templates/workshops/leftmenu.html:7
+#: workshops/templates/workshops/workshop_list_current.html:5
+msgid "Current Workshops"
+msgstr "Talleres actuales"
+
+#: workshops/templates/workshops/leftmenu.html:10
+msgid "Past Workshops"
+msgstr "Los talleres anteriores"
+
+#: workshops/templates/workshops/overview.html:4
+msgid "EOMF: Workshops overview"
+msgstr "EOMF: Talleres visión general"
+
+#: workshops/templates/workshops/overview.html:11
+msgid ""
+"The EOMF has hosted or co-hosted a number of workshops and project\n"
+"                meetings in a variety of research areas, including disease ecology, remote\n"
+"                sensing, land use and land cover change, terrestrial carbon cycle and\n"
+"                climate change. Here you can read and download the materials related to\n"
+"                the workshops and project meetings. "
+msgstr ""
+"El EOMF ha sido anfitrión o co-organizado una serie de talleres y proyectos\n"
+"                reuniones en una variedad de áreas de investigación, incluyendo ecología de las enfermedades, a distancia\n"
+"                detección, uso de la tierra y el cambio de cobertura terrestre, ciclo del carbono terrestre y\n"
+"                cambio climático. Aquí puede leer y descargar los materiales relacionados con\n"
+"                los talleres y reuniones del proyecto."
+
+#: workshops/templates/workshops/registration.html:8
+msgid "Registration"
+msgstr "Registro"
+
+#: workshops/templates/workshops/registration.html:17
+msgid ""
+"You have successfuly registered for this workshop. Please check your email "
+"for confirmation."
+msgstr ""
+"Usted exitosamente registrado para este taller. Por favor revise su correo "
+"electrónico para la confirmación."
+
+#: workshops/templates/workshops/registration.html:25
+#: workshops/templates/workshops/workshop.html:11
+msgid "Registered participants"
+msgstr "Participantes inscritos"
+
+#: workshops/templates/workshops/registration.html:33
+#: workshops/templates/workshops/workshop.html:19
+msgid "Name"
+msgstr "Nombre"
+
+#: workshops/templates/workshops/registration.html:34
+#: workshops/templates/workshops/workshop.html:20
+#: workshops/templates/workshops/workshop_presentations.html:25
+msgid "Institution"
+msgstr "Institución"
+
+#: workshops/templates/workshops/sponsors.html:3
+msgid "Sponsors"
+msgstr "Patrocinadores"
+
+#: workshops/templates/workshops/workshop_extra_menu.html:4
+msgid "Content"
+msgstr "Contenido"
+
+#: workshops/templates/workshops/workshop_extra_menu.html:10
+msgid "Register now here"
+msgstr "Regístrate aquí"
+
+#: workshops/templates/workshops/workshop_extra_menu.html:12
+msgid "Registration closed"
+msgstr "Inscripción cerrada"
+
+#: workshops/templates/workshops/workshop_extra_menu.html:17
+#: workshops/templates/workshops/workshop_presentations_menu.html:3
+msgid "Agenda"
+msgstr "Agenda"
+
+#: workshops/templates/workshops/workshop_extra_menu.html:19
+msgid "Agenda not available"
+msgstr "Agenda No disponible"
+
+#: workshops/templates/workshops/workshop_extra_menu.html:26
+msgid "Photo Gallery"
+msgstr "Galería De Fotos"
+
+#: workshops/templates/workshops/workshop_list_past.html:6
+msgid "Previous Workshops"
+msgstr "Talleres anteriores"
+
+#: workshops/templates/workshops/workshop_presentations.html:22
+msgid "Time"
+msgstr "Tiempo"
+
+#: workshops/templates/workshops/workshop_presentations.html:24
+msgid "Presenter"
+msgstr "Presentador"
+
+#: workshops/templates/workshops/workshop_presentations.html:26
+msgid "Link"
+msgstr "Enlace"
+
+#: workshops/templates/workshops/workshop_presentations_menu.html:7
+msgid "View agenda"
+msgstr "Ver programa"
+
+#: workshops/templates/workshops/workshop_presentations_menu.html:9
+msgid "Not yet available"
+msgstr "No disponible aún"

@@ -1,0 +1,44 @@
+Debug fileFalse<tr><td colspan="2"><ul class="errorlist nonfield"><li>Booth with this Year, Institution and Department already exists.</li></ul></td></tr>
+<tr><th><label for="id_non_profit_0">Institution Type:</label></th><td><ul id="id_non_profit"><li><label for="id_non_profit_0"><input checked="checked" class="unstyled" id="id_non_profit_0" name="non_profit" type="radio" value="True" /> University / Government / Non-Profit: Free registration</label></li>
+<li><label for="id_non_profit_1"><input class="unstyled" id="id_non_profit_1" name="non_profit" type="radio" value="False" /> Private Industry / For Profit: $300 registration fee</label></li></ul></td></tr>
+<tr><th><label for="id_institution">Institution:</label></th><td><input id="id_institution" maxlength="128" name="institution" type="text" value="OU " /></td></tr>
+<tr><th><label for="id_department">Department:</label></th><td><input id="id_department" maxlength="128" name="department" type="text" value="Comp. Science" /></td></tr>
+<tr><th><label for="id_last_name">Last name:</label></th><td><input id="id_last_name" maxlength="50" name="last_name" type="text" value="bolla" /></td></tr>
+<tr><th><label for="id_first_name">First name:</label></th><td><input id="id_first_name" maxlength="50" name="first_name" type="text" value=" bhargav" /></td></tr>
+<tr><th><label for="id_address_1">Address 1:</label></th><td><input id="id_address_1" maxlength="128" name="address_1" type="text" value="sad" /></td></tr>
+<tr><th><label for="id_address_2">Address 2:</label></th><td><input id="id_address_2" maxlength="128" name="address_2" type="text" value="asdsad" /></td></tr>
+<tr><th><label for="id_city">City:</label></th><td><input id="id_city" maxlength="30" name="city" type="text" value="norman" /></td></tr>
+<tr><th><label for="id_state">State:</label></th><td><input id="id_state" maxlength="30" name="state" type="text" value="oklahoma" /></td></tr>
+<tr><th><label for="id_zipcode">Zipcode:</label></th><td><input id="id_zipcode" maxlength="30" name="zipcode" type="text" value="73071" /></td></tr>
+<tr><th><label for="id_phone">Phone:</label></th><td><input id="id_phone" maxlength="30" name="phone" type="text" value="5803999404" /></td></tr>
+<tr><th><label for="id_email">Email:</label></th><td><input id="id_email" maxlength="60" name="email" type="email" value="bhargavreddy.bolla@gmail.com" /></td></tr>
+<tr><th><label for="id_names">Aditional atendees:</label></th><td><textarea cols="40" id="id_names" name="names" rows="10">
+Test</textarea></td></tr>
+<tr><th><label for="id_permits">No. of parking permits needed:</label></th><td><input id="id_permits" maxlength="128" name="permits" type="text" value="2" /></td></tr>
+<tr><th><label for="id_oversized">Do you have a oversized exhibit or display?</label></th><td><select id="id_oversized" name="oversized">
+<option value="1">Unknown</option>
+<option value="2" selected="selected">Yes</option>
+<option value="3">No</option>
+</select></td></tr>
+<tr><th><label for="id_comment">Questions &amp; comments:</label></th><td><textarea cols="40" id="id_comment" name="comment" rows="10">
+sdf</textarea></td></tr>
+<tr><th><label for="id_tshirt_size_1">Tshirt size 1:</label></th><td><select id="id_tshirt_size_1" name="tshirt_size_1">
+<option value="">---------</option>
+<option value="UK">Unkown</option>
+<option value="S">Small</option>
+<option value="M" selected="selected">Medium</option>
+<option value="L">Large</option>
+<option value="XL">Extra Large</option>
+<option value="2XL">Extra Extra Large</option>
+</select></td></tr>
+<tr><th><label for="id_tshirt_size_2">Tshirt size 2:</label></th><td><select id="id_tshirt_size_2" name="tshirt_size_2">
+<option value="">---------</option>
+<option value="UK">Unkown</option>
+<option value="S" selected="selected">Small</option>
+<option value="M">Medium</option>
+<option value="L">Large</option>
+<option value="XL">Extra Large</option>
+<option value="2XL">Extra Extra Large</option>
+</select></td></tr>
+<tr><th><label for="id_captcha_0">Captcha:</label></th><td><span class="captcha-question">What is 8 &times; 5? </span><input id="id_captcha_0" name="captcha_0" size="5" type="text" /><input id="id_captcha_1" name="captcha_1" type="hidden" value="2e264ed5905f57112eaa77611c8a89d1352a01aa" /></td></tr>
+<tr><th><label for="id_verifyemail">verify email:</label></th><td><ul class="errorlist"><li>This field is required.</li></ul><input id="id_verifyemail" maxlength="60" name="verifyemail" type="email" /><input id="id_year" name="year" type="hidden" value="5" /></td></tr>
